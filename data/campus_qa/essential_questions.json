@@ -1,0 +1,154 @@
+{
+  "campus_questions": [
+    {
+      "question": "Where is the library?",
+      "intent": "find_location",
+      "category": "navigation"
+    },
+    {
+      "question": "What time does the cafeteria close?",
+      "intent": "get_hours",
+      "category": "hours"
+    },
+    {
+      "question": "How do I connect to WiFi?",
+      "intent": "how_to",
+      "category": "technology"
+    },
+    {
+      "question": "Hello NEXi",
+      "intent": "greeting",
+      "category": "social"
+    },
+    {
+      "question": "Who do I contact for IT support?",
+      "intent": "get_contact",
+      "category": "support"
+    },
+    {
+      "question": "Thanks for your help",
+      "intent": "goodbye",
+      "category": "social"
+    },
+    {
+      "question": "Where can I find the registrar's office?",
+      "intent": "find_location",
+      "category": "navigation"
+    },
+    {
+      "question": "What are the library hours?",
+      "intent": "get_hours",
+      "category": "hours"
+    },
+    {
+      "question": "How do I register for classes?",
+      "intent": "how_to",
+      "category": "academic"
+    },
+    {
+      "question": "When is the career fair?",
+      "intent": "get_events",
+      "category": "events"
+    },
+    {
+      "question": "Where is the student center?",
+      "intent": "find_location",
+      "category": "navigation"
+    },
+    {
+      "question": "What time does the gym open?",
+      "intent": "get_hours",
+      "category": "hours"
+    },
+    {
+      "question": "How do I access the student portal?",
+      "intent": "how_to",
+      "category": "technology"
+    },
+    {
+      "question": "Who can help me with financial aid?",
+      "intent": "get_contact",
+      "category": "support"
+    },
+    {
+      "question": "What clubs are available?",
+      "intent": "get_events",
+      "category": "events"
+    },
+    {
+      "question": "Where is parking available?",
+      "intent": "find_location",
+      "category": "navigation"
+    },
+    {
+      "question": "When does the bookstore close?",
+      "intent": "get_hours",
+      "category": "hours"
+    },
+    {
+      "question": "How do I drop a class?",
+      "intent": "how_to",
+      "category": "academic"
+    },
+    {
+      "question": "What's the phone number for admissions?",
+      "intent": "get_contact",
+      "category": "support"
+    },
+    {
+      "question": "Are there any sports events today?",
+      "intent": "get_events",
+      "category": "events"
+    },
+    {
+      "question": "Where can I eat on campus?",
+      "intent": "find_location",
+      "category": "dining"
+    },
+    {
+      "question": "What are the dining hall hours?",
+      "intent": "get_hours",
+      "category": "dining"
+    },
+    {
+      "question": "How do I get a student ID card?",
+      "intent": "how_to",
+      "category": "services"
+    },
+    {
+      "question": "Who handles housing issues?",
+      "intent": "get_contact",
+      "category": "support"
+    },
+    {
+      "question": "What study groups are meeting?",
+      "intent": "get_events",
+      "category": "academic"
+    },
+    {
+      "question": "Where is the health center?",
+      "intent": "find_location",
+      "category": "health"
+    },
+    {
+      "question": "When is the health center open?",
+      "intent": "get_hours",
+      "category": "health"
+    },
+    {
+      "question": "How do I schedule an appointment with a counselor?",
+      "intent": "how_to",
+      "category": "health"
+    },
+    {
+      "question": "What's the emergency contact number?",
+      "intent": "get_contact",
+      "category": "emergency"
+    },
+    {
+      "question": "Good morning, can you help me?",
+      "intent": "greeting",
+      "category": "social"
+    }
+  ]
+}
