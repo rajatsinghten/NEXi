@@ -1,0 +1,413 @@
+{
+  "campus_database": {
+    "version": "2.0",
+    "last_updated": "2025-06-25",
+    "total_questions": 120,
+    "categories": {
+      "navigation": {
+        "description": "Campus locations and directions",
+        "questions": [
+          {
+            "question": "Where is the library?",
+            "intent": "find_location",
+            "entities": {"building": "library"},
+            "answer": "The Central Library is located in Building A, first floor. It's open 24/7 during exam periods."
+          },
+          {
+            "question": "How do I get to the student center?",
+            "intent": "find_location", 
+            "entities": {"building": "student center"},
+            "answer": "The Student Center is in Building C, right across from the main entrance. Look for the blue signs."
+          },
+          {
+            "question": "Where can I find parking?",
+            "intent": "find_location",
+            "entities": {"location": "parking"},
+            "answer": "Student parking is available in Lots P1-P5. P1 and P2 are closest to academic buildings. Parking permits required."
+          },
+          {
+            "question": "Where is the registrar's office?",
+            "intent": "find_location",
+            "entities": {"building": "registrar", "department": "registrar"},
+            "answer": "The Registrar's Office is in the Administration Building, Room 205. Hours: Mon-Fri 8:00 AM - 5:00 PM."
+          },
+          {
+            "question": "Where can I eat on campus?",
+            "intent": "find_location",
+            "entities": {"service": "dining"},
+            "answer": "Main dining options: Central Dining Hall (Building D), Campus Café (Student Center), and Food Court (Library basement)."
+          },
+          {
+            "question": "Where is the gym?",
+            "intent": "find_location",
+            "entities": {"building": "gym"},
+            "answer": "The Fitness Center is in the Recreation Building, accessible with your student ID. Pool, weight room, and courts available."
+          },
+          {
+            "question": "Where is the health center?",
+            "intent": "find_location",
+            "entities": {"building": "health center"},
+            "answer": "The Health & Wellness Center is in Building F, first floor. Emergency services available 24/7."
+          },
+          {
+            "question": "Where can I study?",
+            "intent": "find_location",
+            "entities": {"service": "study"},
+            "answer": "Study spaces: Library (quiet zones), Student Center (group study), Academic buildings (study lounges), and outdoor study areas."
+          },
+          {
+            "question": "Where is the bookstore?",
+            "intent": "find_location", 
+            "entities": {"building": "bookstore"},
+            "answer": "The Campus Bookstore is on the ground floor of the Student Center. They sell textbooks, supplies, and campus merchandise."
+          },
+          {
+            "question": "Where are the dorms?",
+            "intent": "find_location",
+            "entities": {"building": "dormitory"},
+            "answer": "Residence halls are located on the north side of campus: Harrison Hall, Madison Hall, and Jefferson Hall."
+          }
+        ]
+      },
+      "hours": {
+        "description": "Operating hours for campus facilities",
+        "questions": [
+          {
+            "question": "What time does the library close?",
+            "intent": "get_hours",
+            "entities": {"building": "library"},
+            "answer": "Library hours: Mon-Thu 7:00 AM - 2:00 AM, Fri 7:00 AM - 10:00 PM, Sat 10:00 AM - 10:00 PM, Sun 10:00 AM - 2:00 AM."
+          },
+          {
+            "question": "When is the cafeteria open?",
+            "intent": "get_hours",
+            "entities": {"building": "cafeteria"},
+            "answer": "Central Dining Hall: Breakfast 7:00-10:00 AM, Lunch 11:00 AM-3:00 PM, Dinner 5:00-9:00 PM daily."
+          },
+          {
+            "question": "What are the gym hours?",
+            "intent": "get_hours",
+            "entities": {"building": "gym"},
+            "answer": "Fitness Center: Mon-Fri 5:00 AM - 11:00 PM, Sat-Sun 7:00 AM - 10:00 PM. Pool closes 30 minutes earlier."
+          },
+          {
+            "question": "When is the bookstore open?",
+            "intent": "get_hours",
+            "entities": {"building": "bookstore"},
+            "answer": "Bookstore hours: Mon-Fri 8:00 AM - 6:00 PM, Sat 10:00 AM - 4:00 PM, Closed Sundays."
+          },
+          {
+            "question": "What time does the health center close?",
+            "intent": "get_hours",
+            "entities": {"building": "health center"},
+            "answer": "Health Center: Mon-Fri 8:00 AM - 8:00 PM, Sat 10:00 AM - 4:00 PM. Emergency services available 24/7."
+          },
+          {
+            "question": "When is the registrar open?",
+            "intent": "get_hours",
+            "entities": {"department": "registrar"},
+            "answer": "Registrar's Office: Mon-Fri 8:00 AM - 5:00 PM. Extended hours during registration periods."
+          },
+          {
+            "question": "What are the student center hours?",
+            "intent": "get_hours",
+            "entities": {"building": "student center"},
+            "answer": "Student Center: Mon-Thu 6:00 AM - 12:00 AM, Fri-Sat 6:00 AM - 1:00 AM, Sun 8:00 AM - 12:00 AM."
+          },
+          {
+            "question": "When does the computer lab close?",
+            "intent": "get_hours",
+            "entities": {"service": "computer lab"},
+            "answer": "Computer labs: Available 24/7 in the library. Other labs: Mon-Fri 7:00 AM - 11:00 PM, weekends 9:00 AM - 9:00 PM."
+          }
+        ]
+      },
+      "contact": {
+        "description": "Contact information for campus services",
+        "questions": [
+          {
+            "question": "Who do I contact for IT support?",
+            "intent": "get_contact",
+            "entities": {"department": "IT support"},
+            "answer": "IT Help Desk: (555) 123-4567, help@campus.edu. Located in Library basement. Hours: Mon-Fri 8:00 AM - 8:00 PM."
+          },
+          {
+            "question": "What's the admissions phone number?",
+            "intent": "get_contact",
+            "entities": {"department": "admissions"},
+            "answer": "Admissions Office: (555) 123-4568, admissions@campus.edu. Located in Administration Building, Room 101."
+          },
+          {
+            "question": "Who handles financial aid?",
+            "intent": "get_contact",
+            "entities": {"department": "financial aid"},
+            "answer": "Financial Aid Office: (555) 123-4569, finaid@campus.edu. Administration Building, Room 150. Walk-ins welcome."
+          },
+          {
+            "question": "Who do I call for emergencies?",
+            "intent": "get_contact",
+            "entities": {"service": "emergency"},
+            "answer": "Campus Emergency: 911 or (555) 123-4570. Campus Security: (555) 123-4571. Emergency phones located throughout campus."
+          },
+          {
+            "question": "How do I reach housing services?",
+            "intent": "get_contact",
+            "entities": {"department": "housing"},
+            "answer": "Housing Office: (555) 123-4572, housing@campus.edu. Located in Harrison Hall, first floor."
+          },
+          {
+            "question": "Who do I contact about parking?",
+            "intent": "get_contact",
+            "entities": {"service": "parking"},
+            "answer": "Parking Services: (555) 123-4573, parking@campus.edu. Office in Security Building. Permits available online."
+          },
+          {
+            "question": "What's the health center number?",
+            "intent": "get_contact",
+            "entities": {"building": "health center"},
+            "answer": "Health & Wellness Center: (555) 123-4574. Emergency line available 24/7. Appointments: healthcenter@campus.edu."
+          },
+          {
+            "question": "Who handles academic advising?",
+            "intent": "get_contact",
+            "entities": {"service": "academic advising"},
+            "answer": "Academic Advising: (555) 123-4575, advising@campus.edu. Located in each academic department building."
+          }
+        ]
+      },
+      "procedures": {
+        "description": "How-to guides for campus processes",
+        "questions": [
+          {
+            "question": "How do I register for classes?",
+            "intent": "how_to",
+            "entities": {"service": "registration"},
+            "answer": "Class registration: 1) Meet with advisor, 2) Log into student portal, 3) Select courses, 4) Pay tuition. Registration opens by class level."
+          },
+          {
+            "question": "How do I connect to WiFi?",
+            "intent": "how_to",
+            "entities": {"service": "wifi"},
+            "answer": "WiFi: Connect to 'CampusWiFi' network, use your student ID and password. For guests, use 'CampusGuest' (no password required)."
+          },
+          {
+            "question": "How do I get a student ID?",
+            "intent": "how_to",
+            "entities": {"service": "student ID"},
+            "answer": "Student ID: Visit ID Services in Student Center with photo ID and enrollment verification. Cards ready in 10 minutes. Cost: $20."
+          },
+          {
+            "question": "How do I access the student portal?",
+            "intent": "how_to",
+            "entities": {"service": "portal"},
+            "answer": "Student Portal: Go to portal.campus.edu, use your student ID number and the password you created during orientation."
+          },
+          {
+            "question": "How do I drop a class?",
+            "intent": "how_to",
+            "entities": {"service": "drop class"},
+            "answer": "Drop classes: Log into student portal > My Classes > Drop. Deadline varies by semester progress. Consult advisor first."
+          },
+          {
+            "question": "How do I get transcripts?",
+            "intent": "how_to",
+            "entities": {"service": "transcripts"},
+            "answer": "Transcripts: Order online through student portal or visit Registrar's Office. Official transcripts: $10 each. Unofficial: free online."
+          },
+          {
+            "question": "How do I apply for financial aid?",
+            "intent": "how_to",
+            "entities": {"service": "financial aid"},
+            "answer": "Financial aid: Complete FAFSA online, submit by March 1 for priority consideration. Visit Financial Aid Office for help."
+          },
+          {
+            "question": "How do I reserve a study room?",
+            "intent": "how_to",
+            "entities": {"service": "study room"},
+            "answer": "Study rooms: Reserve online through library website or use kiosks in library. Maximum 4 hours per day. Free for students."
+          }
+        ]
+      },
+      "events": {
+        "description": "Campus events and activities",
+        "questions": [
+          {
+            "question": "What events are happening today?",
+            "intent": "get_events",
+            "entities": {"time": "today"},
+            "answer": "Check the campus events calendar at events.campus.edu or visit the Student Center information desk for daily activities."
+          },
+          {
+            "question": "What clubs can I join?",
+            "intent": "get_events",
+            "entities": {"service": "clubs"},
+            "answer": "200+ student organizations available. Visit Student Life Office or attend the Activities Fair each semester. List at studentlife.campus.edu."
+          },
+          {
+            "question": "When is the career fair?",
+            "intent": "get_events",
+            "entities": {"event": "career fair"},
+            "answer": "Career Fair: Fall semester (October 15-16), Spring semester (March 10-11). Register through Career Services office."
+          },
+          {
+            "question": "Are there sports events this week?",
+            "intent": "get_events",
+            "entities": {"event": "sports"},
+            "answer": "Check athletics.campus.edu for game schedules. Home games at Campus Stadium. Student tickets free with ID."
+          },
+          {
+            "question": "What study groups are available?",
+            "intent": "get_events",
+            "entities": {"event": "study groups"},
+            "answer": "Study groups organized by Academic Success Center. Check with your department or visit tutoring.campus.edu for subject-specific groups."
+          },
+          {
+            "question": "When is orientation?",
+            "intent": "get_events",
+            "entities": {"event": "orientation"},
+            "answer": "New student orientation: Multiple dates in August and January. Check admissions.campus.edu for schedules and registration."
+          }
+        ]
+      },
+      "social": {
+        "description": "Greetings and social interactions",
+        "questions": [
+          {
+            "question": "Hello",
+            "intent": "greeting",
+            "entities": {},
+            "answer": "Hello! I'm NEXi, your campus assistant. I can help you find locations, get hours, contact information, and learn about campus procedures."
+          },
+          {
+            "question": "Good morning",
+            "intent": "greeting", 
+            "entities": {"time": "morning"},
+            "answer": "Good morning! How can I help you navigate campus today?"
+          },
+          {
+            "question": "Can you help me?",
+            "intent": "greeting",
+            "entities": {},
+            "answer": "Absolutely! I'm here to help with campus information. What do you need to know about?"
+          },
+          {
+            "question": "Thanks",
+            "intent": "goodbye",
+            "entities": {},
+            "answer": "You're welcome! Feel free to ask me anything else about campus."
+          },
+          {
+            "question": "Goodbye",
+            "intent": "goodbye",
+            "entities": {},
+            "answer": "Goodbye! Have a great day on campus. I'm here whenever you need help!"
+          }
+        ]
+      },
+      "technology": {
+        "description": "Campus technology and digital services",
+        "questions": [
+          {
+            "question": "How do I print documents?",
+            "intent": "how_to",
+            "entities": {"service": "printing"},
+            "answer": "Printing: Use campus printers with your student ID. $0.10 per page B&W, $0.25 color. Add money at print stations or online."
+          },
+          {
+            "question": "Where are the computer labs?",
+            "intent": "find_location",
+            "entities": {"service": "computer lab"},
+            "answer": "Computer labs: Library (24/7), Academic buildings (limited hours), Student Center. All require student ID for access."
+          },
+          {
+            "question": "How do I access campus email?",
+            "intent": "how_to",
+            "entities": {"service": "email"},
+            "answer": "Campus email: Go to mail.campus.edu, use your student ID and password. Also available on mobile devices through campus email app."
+          },
+          {
+            "question": "What software is available?",
+            "intent": "get_contact",
+            "entities": {"service": "software"},
+            "answer": "Free software for students: Microsoft Office, Adobe Creative Suite, programming tools. Download from software.campus.edu."
+          }
+        ]
+      },
+      "dining": {
+        "description": "Campus dining and food services",
+        "questions": [
+          {
+            "question": "What meal plans are available?",
+            "intent": "get_contact",
+            "entities": {"service": "meal plans"},
+            "answer": "Meal plans: Unlimited ($2,400/semester), 19 meals/week ($2,200), 14 meals/week ($2,000), 10 meals/week ($1,800). Plus dining dollars included."
+          },
+          {
+            "question": "What food is served today?",
+            "intent": "get_events",
+            "entities": {"service": "food", "time": "today"},
+            "answer": "Today's menu: Check dining.campus.edu or the Campus Dining app for real-time menus and nutritional information."
+          },
+          {
+            "question": "Are there vegetarian options?",
+            "intent": "get_contact",
+            "entities": {"service": "vegetarian"},
+            "answer": "Vegetarian/vegan options available daily at all dining locations. Special dietary needs accommodated - contact Dining Services."
+          }
+        ]
+      },
+      "health": {
+        "description": "Health and wellness services",
+        "questions": [
+          {
+            "question": "How do I schedule a doctor appointment?",
+            "intent": "how_to",
+            "entities": {"service": "health appointment"},
+            "answer": "Health appointments: Call (555) 123-4574, use the health portal online, or visit Health Center. Same-day sick visits available."
+          },
+          {
+            "question": "Is counseling available?",
+            "intent": "get_contact",
+            "entities": {"service": "counseling"},
+            "answer": "Counseling services: Free for students. Call (555) 123-4574 or visit health.campus.edu. Crisis counseling available 24/7."
+          },
+          {
+            "question": "Where is the pharmacy?",
+            "intent": "find_location",
+            "entities": {"service": "pharmacy"},
+            "answer": "Campus pharmacy located in Health Center. Prescription refills, over-the-counter medications. Student insurance accepted."
+          }
+        ]
+      },
+      "academic": {
+        "description": "Academic support and services",
+        "questions": [
+          {
+            "question": "Where is tutoring available?",
+            "intent": "find_location",
+            "entities": {"service": "tutoring"},
+            "answer": "Tutoring: Academic Success Center (Library 2nd floor), department-specific tutoring in academic buildings. Free for students."
+          },
+          {
+            "question": "How do I change my major?",
+            "intent": "how_to",
+            "entities": {"service": "change major"},
+            "answer": "Change major: Meet with current advisor, visit new department advisor, complete change of major form in Registrar's Office."
+          },
+          {
+            "question": "When is registration?",
+            "intent": "get_hours",
+            "entities": {"service": "registration"},
+            "answer": "Registration dates vary by class level. Check student portal for your specific registration time. Seniors register first."
+          },
+          {
+            "question": "How do I get academic accommodations?",
+            "intent": "how_to",
+            "entities": {"service": "accommodations"},
+            "answer": "Academic accommodations: Visit Disability Services in Student Center with documentation. They coordinate with professors."
+          }
+        ]
+      }
+    }
+  }
+}
