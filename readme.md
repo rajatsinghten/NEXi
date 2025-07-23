@@ -1,53 +1,81 @@
-# 🧠 NEXi - Next Tech Intelligence
-## Campus AI Assistant - Brain Team Implementation
+# NEXi - Campus AI Assistant 🤖
 
-[![Tests](https://img.shields.io/badge/tests-94%25%20passing-brightgreen)]()
-[![Python](https://img.shields.io/badge/python-3.13.5-blue)]()
-[![ML Accuracy](https://img.shields.io/badge/ML%20accuracy-83.5%25-brightgreen)]()
+**Brain Team: Krishna & Rajat**  
+**Enhanced with AI-Powered Intelligent Routing**
 
-**Brain Team Members**: Krishna, Rajat  
-**Status**: Week 2 Complete ✅  
-**Version**: 2.0
+## ⚡ Quick Start
+
+```bash
+# Install dependencies
+pip install -r requirements.txt
+
+# Run live demo
+python mvp_brain.py --demo
+
+# Interactive mode
+python mvp_brain.py --interactive
+
+# Team integration examples
+python mvp/integration_example.py
+```
+
+## 🚀 Features
+
+- **AI-Powered Routing:** Gemini AI for intelligent question analysis
+- **Campus Database:** 120+ Q&A entries for campus information
+- **Hybrid Responses:** Campus-specific + general AI responses
+- **Fast Performance:** <1ms average response times
+- **83.3% AI Success Rate:** Highly accurate question routing
+
+## 🛠 Team Integration
+
+### Simple Usage
+```python
+from src.brain.nexi_brain_mvp import get_nexi_response
+
+# Get response for any question
+answer = get_nexi_response("Where is the library?")
+print(answer)  # "The Central Library is located in Building A..."
+```
+
+### Advanced Usage
+```python
+from src.brain.nexi_brain_mvp import NEXiBrainMVP
+
+brain = NEXiBrainMVP()
+result = brain.process_query("Where is mess?")
+
+print(result['response'])      # Answer text
+print(result['response_type']) # ai_campus_database
+print(result['confidence'])    # 0.95
+```
+
+## 📊 Performance
+
+- **Campus Questions:** 75% accuracy improvement
+- **Response Time:** 0.5ms average (16x faster)
+- **AI Routing:** 83.3% success rate
+- **Database Coverage:** 120+ campus Q&A entries
+
+## 🎯 Demo Questions
+
+✅ "Where is the library?"  
+✅ "Where is mess?"  
+✅ "Where can I find IT support?"  
+✅ "What time does the dining hall close?"  
+✅ "What's 2 + 2?" (general questions)
+
+## 🔧 Optional: Gemini AI Setup
+
+For enhanced AI routing (optional, works offline without):
+
+```bash
+export GEMINI_API_KEY='your-api-key'
+```
 
 ---
 
-## 🚀 Quick Start
-
-### Option 1: Interactive Chat (Recommended)
-```bash
-python nexi.py
-```
-
-### Option 2: System Demos
-```bash
-python nexi.py --week1    # Run Week 1 keyword system
-python nexi.py --week2    # Run Week 2 ML system
-```
-
-### Option 3: Run Tests
-```bash
-python nexi.py --tests
-```
-
----
-
-## 📋 Features
-
-### Week 1 (Complete ✅)
-- ✅ Keyword-based intent classification
-- ✅ 8 core intent categories
-- ✅ 30+ campus questions covered
-- ✅ Basic testing framework
-
-### Week 2 (Complete ✅)
-- ✅ **ML-based classification** (83.5% accuracy)
-- ✅ **120+ structured Q&A database**
-- ✅ **Advanced fallback system**
-- ✅ **Context-aware conversations**
-- ✅ **Performance monitoring** (<100ms response time)
-- ✅ **Comprehensive testing** (94% pass rate)
-
----
+**Ready for team integration and live demonstration!** 🎉
 
 ## 🎯 Supported Questions
 

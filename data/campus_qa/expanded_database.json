@@ -38,6 +38,12 @@
             "answer": "Main dining options: Central Dining Hall (Building D), Campus Café (Student Center), and Food Court (Library basement)."
           },
           {
+            "question": "Where is the mess?",
+            "intent": "find_location",
+            "entities": {"service": "dining", "building": "mess"},
+            "answer": "The main dining hall (mess) is the Central Dining Hall in Building D. Also available: Campus Café (Student Center) and Food Court (Library basement)."
+          },
+          {
             "question": "Where is the gym?",
             "intent": "find_location",
             "entities": {"building": "gym"},
@@ -82,6 +88,12 @@
             "question": "When is the cafeteria open?",
             "intent": "get_hours",
             "entities": {"building": "cafeteria"},
+            "answer": "Central Dining Hall: Breakfast 7:00-10:00 AM, Lunch 11:00 AM-3:00 PM, Dinner 5:00-9:00 PM daily."
+          },
+          {
+            "question": "What time does the dining hall close?",
+            "intent": "get_hours",
+            "entities": {"building": "dining hall"},
             "answer": "Central Dining Hall: Breakfast 7:00-10:00 AM, Lunch 11:00 AM-3:00 PM, Dinner 5:00-9:00 PM daily."
           },
           {
