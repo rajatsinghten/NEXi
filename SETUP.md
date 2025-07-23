@@ -106,12 +106,16 @@ pip install scikit-learn nltk requests pandas numpy
 
 ### **Optional: Gemini AI (Internet Responses)**
 ```bash
-# For enhanced general question responses
+# For enhanced AI routing and general question responses
 export GEMINI_API_KEY='your-gemini-api-key'
 ```
 
-**Without Gemini:** System works offline with intelligent fallbacks  
-**With Gemini:** Enhanced AI responses for general questions
+**API Status:** ✅ Integration working correctly  
+**Fallback System:** ✅ Intelligent keyword-based analysis when API unavailable  
+**Quota Management:** ✅ Graceful handling of API limits  
+
+**Without Gemini:** System works with intelligent keyword fallbacks  
+**With Gemini:** Enhanced AI-powered question routing and analysis
 
 ---
 

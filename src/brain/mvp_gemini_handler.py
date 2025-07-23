@@ -27,7 +27,7 @@ class GeminiHandler:
     
     def __init__(self, api_key: Optional[str] = None):
         self.api_key = api_key or os.getenv('GEMINI_API_KEY')
-        self.base_url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent"
+        self.base_url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro-latest:generateContent"
         self.enabled = bool(self.api_key)
         
         if not self.enabled:
@@ -92,11 +92,18 @@ class GeminiHandler:
                         confidence=0.85,  # High confidence for API responses
                         response_type="gemini"
                     )
-            
-            return None
+            elif response.status_code == 429:
+                print("⚠️  Gemini API quota exceeded - using intelligent fallback")
+                return None
+            else:
+                print(f"⚠️  Gemini API error {response.status_code} - using fallback")
+                return None
             
         except Exception as e:
             print(f"Gemini API error: {e}")
+            if hasattr(e, 'response'):
+                print(f"Response status: {e.response.status_code}")
+                print(f"Response text: {e.response.text}")
             return None
     
     def _create_prompt(self, question: str, context: str) -> str:
