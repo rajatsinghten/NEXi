@@ -20,6 +20,7 @@ sys.path.insert(0, str(Path(__file__).parent.parent))
 
 from brain.ml_classifier import MLIntentClassifier
 from brain.fallback_manager import FallbackManager, ContextMemory
+from brain.general_question_handler import GeneralQuestionHandler
 
 class NEXiBrainSystem:
     """
@@ -39,6 +40,7 @@ class NEXiBrainSystem:
         
         self.ml_classifier = MLIntentClassifier(data_path)
         self.fallback_manager = FallbackManager(data_path)
+        self.general_handler = GeneralQuestionHandler()  # Add general question handler
         self.qa_database = self._load_qa_database(data_path)
         self.conversation_sessions = {}
         
@@ -47,6 +49,7 @@ class NEXiBrainSystem:
             "total_queries": 0,
             "successful_classifications": 0,
             "fallback_used": 0,
+            "general_questions": 0,  # Track general questions
             "avg_confidence": 0.0
         }
         
@@ -73,11 +76,29 @@ class NEXiBrainSystem:
         - Entities extracted
         - Fallback handling if needed
         - Context awareness
+        - General question handling (math, weather, etc.)
         """
         
         self.metrics["total_queries"] += 1
         
-        # Step 1: ML-based intent classification
+        # Step 0: Check if this is a general (non-campus) question
+        general_response = self.general_handler.process_general_question(user_input)
+        if general_response:
+            self.metrics["general_questions"] += 1
+            return {
+                "status": "general",
+                "intent": "general_" + general_response.response_type,
+                "confidence": general_response.confidence,
+                "context": "general",
+                "entities": {},
+                "response": general_response.text,
+                "response_type": "general_llm",
+                "conversation_id": user_id,
+                "fallback_used": False,
+                "suggested_follow_ups": self._get_general_follow_ups(general_response.response_type)
+            }
+        
+        # Step 1: ML-based intent classification (for campus questions)
         ml_response = self.ml_classifier.classify_intent_ml(user_input, user_id)
         
         # Update metrics
@@ -230,6 +251,43 @@ class NEXiBrainSystem:
                 "How do I register for classes?"
             ]
     
+    def _get_general_follow_ups(self, response_type: str) -> List[str]:
+        """Generate follow-up suggestions for general questions"""
+        
+        general_follow_ups = {
+            "math": [
+                "Need help with more calculations?",
+                "Want to know about the math tutoring center?",
+                "Looking for math courses on campus?"
+            ],
+            "weather": [
+                "Want to know about indoor activities on campus?",
+                "Looking for covered walkways between buildings?",
+                "Need information about campus shuttle services?"
+            ],
+            "conversational": [
+                "What campus information can I help you with?",
+                "Want to know about campus facilities?",
+                "Looking for specific campus services?"
+            ],
+            "time": [
+                "Want to know campus facility hours?",
+                "Looking for class schedules?",
+                "Need information about campus events timing?"
+            ],
+            "general_knowledge": [
+                "Want to know about campus library resources?",
+                "Looking for academic support services?",
+                "Need help with campus-related questions?"
+            ]
+        }
+        
+        return general_follow_ups.get(response_type, [
+            "What campus information can I help you with?",
+            "Looking for specific campus services?",
+            "Want to know about campus facilities?"
+        ])
+    
     def get_conversation_summary(self, user_id: str) -> Dict:
         """Get comprehensive conversation summary"""
         
@@ -261,10 +319,15 @@ class NEXiBrainSystem:
                         self.metrics["total_queries"] 
                         if self.metrics["total_queries"] > 0 else 0)
         
+        general_rate = (self.metrics["general_questions"] / 
+                       self.metrics["total_queries"] 
+                       if self.metrics["total_queries"] > 0 else 0)
+        
         return {
             "total_queries_processed": self.metrics["total_queries"],
             "successful_classification_rate": success_rate,
             "fallback_usage_rate": fallback_rate,
+            "general_questions_rate": general_rate,
             "average_confidence_score": self.metrics["avg_confidence"],
             "ml_model_trained": self.ml_classifier.is_trained,
             "primary_algorithm": getattr(self.ml_classifier, 'primary_classifier', 'keyword'),

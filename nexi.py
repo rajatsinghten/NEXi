@@ -236,14 +236,19 @@ def show_stats(brain):
     """Show system performance statistics"""
     if hasattr(brain, 'metrics'):
         metrics = brain.metrics
+        total = max(metrics['total_queries'], 1)
+        success_rate = (metrics['successful_classifications']/total*100)
+        fallback_rate = (metrics['fallback_used']/total*100)
+        general_rate = (metrics.get('general_questions', 0)/total*100)
+        
         print(f"""
 {Colors.HEADER}📊 System Performance Statistics{Colors.ENDC}
 {Colors.OKGREEN}
   Total Queries Processed: {metrics['total_queries']}
-  Successful Classifications: {metrics['successful_classifications']}
-  Fallback System Used: {metrics['fallback_used']} times
+  Campus Questions: {metrics['successful_classifications']} ({success_rate:.1f}%)
+  General Questions (Math/Weather/etc): {metrics.get('general_questions', 0)} ({general_rate:.1f}%)
+  Fallback System Used: {metrics['fallback_used']} ({fallback_rate:.1f}%)
   Average Confidence Score: {metrics['avg_confidence']:.2f}
-  Success Rate: {(metrics['successful_classifications']/max(metrics['total_queries'], 1)*100):.1f}%
 {Colors.ENDC}""")
     else:
         print(f"{Colors.WARNING}Statistics not available for Week 1 system{Colors.ENDC}")
