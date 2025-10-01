@@ -1,0 +1,41 @@
+
+# dotenv secrets
+.env
+.env.local
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Data directories (user-specific paths)
+University Informations/
+uni_json_files/
+storage/
+session_data/
+
+# Local DB / persistence
+chromadb/
+chromadb/*
+E:/chromadb/
+*.db
+*.sqlite
+
+# Logs / artifacts
+*.log
+.pytest_cache/
+coverage/
+
+prompt.py
+
+# Project-specific ignores
+Demo/
+agent.py
+error_log.md
+__pycache__

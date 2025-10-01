@@ -1,0 +1,3135 @@
+{
+  "faculty": [
+  {
+    "name": "Dr Sudheer Babu Punuri",
+    "title": "Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, GIETU - Gunupur",
+    "email": null
+  },
+  {
+    "name": "Dr Animesh Bhandari",
+    "title": "Assistant Professor",
+    "department": "Mathematics",
+    "phd": "PhD, NIT Meghalaya",
+    "email": null
+  },
+  {
+    "name": "Dr Prasun Goswami",
+    "title": "Assistant Professor",
+    "department": "Environmental Science and Engineering",
+    "phd": "PhD, University of Madras",
+    "email": null
+  },
+  {
+    "name": "Dr Satish Anamalamudi",
+    "title": "Associate Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, Dalian University of Technology, China",
+    "email": null
+  },
+  {
+    "name": "Dr Writoban Basu Ball",
+    "title": "Associate Professor",
+    "department": "Biological Sciences",
+    "phd": "PhD, CSIR-IICB, Kolkata",
+    "email": null
+  },
+  {
+    "name": "Dr Anirban Ghosh",
+    "title": "Associate Professor",
+    "department": "Electronics and Communication Engineering",
+    "phd": "PhD, North Dakota State University, US",
+    "email": null
+  },
+  {
+    "name": "Dr Fouzul Atik",
+    "title": "Associate Professor",
+    "department": "Mathematics",
+    "phd": "PhD, IIT Kharagpur, India",
+    "email": null
+  },
+  {
+    "name": "Dr Srabani Basu",
+    "title": "Associate Professor",
+    "department": "Literature and Languages",
+    "phd": "PhD - IKSVV India",
+    "email": null
+  },
+  {
+    "name": "Dr Tousif Khan N",
+    "title": "Associate Professor",
+    "department": "Electrical and Electronics Engineering",
+    "phd": "PhD, IIT Guwahati, India",
+    "email": null
+  },
+  {
+    "name": "Dr Ugen Bhutia",
+    "title": "Assistant Professor",
+    "department": "Liberal Arts",
+    "phd": "PhD, Sikkim University, Sikkim",
+    "email": null
+  },
+  {
+    "name": "Dr Swagata Samanta",
+    "title": "Assistant Professor",
+    "department": "Electronics and Communication Engineering",
+    "phd": "PhD, IIT Kharagpur India",
+    "email": null
+  },
+  {
+    "name": "Dr Sambit Kumar Mishra",
+    "title": "Assistant Professor",
+    "department": "Computer Science Engineering",
+    "phd": "PhD, NIT Rourkela, India",
+    "email": null
+  },
+  {
+    "name": "Dr Soumyajyoti Biswas",
+    "title": "Associate Professor & Head",
+    "department": "Physics",
+    "phd": "PhD, Saha Institute of Nuclear Physics, India",
+    "email": null
+  },
+  {
+    "name": "Dr Sabyasachi Chakrabortty",
+    "title": "Associate Professor",
+    "department": "Chemistry",
+    "phd": "PhD, National University of Singapore, Singapore",
+    "email": null
+  },
+  {
+    "name": "Dr M Radhakrishnan",
+    "title": "Assistant Professor",
+    "department": "Mathematics",
+    "phd": "PhD, RIASM, Chennai, India",
+    "email": null
+  },
+  {
+    "name": "Dr Anuj Deshpande",
+    "title": "Assistant Professor",
+    "department": "Electronics and Communication Engineering",
+    "phd": "PhD, IIT Kharagpur, India",
+    "email": null
+  },
+  {
+    "name": "Dr Sunil Chinnadurai",
+    "title": "Associate Professor",
+    "department": "Electronics and Communication Engineering",
+    "phd": "PhD,Chonbuk National University, South Korea",
+    "email": null
+  },
+  {
+    "name": "Dr Amit Kumar Singh",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, IIT (ISM) Dhanbad, India",
+    "email": null
+  },
+  {
+    "name": "Dr Abinash Pujahari",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, NIT Raipur, India",
+    "email": null
+  },
+  {
+    "name": "Dr Jatindra Kumar Dash",
+    "title": "Associate Dean – SEAS (Academic Operations and Graduate Outcome)",
+    "department": "Computer Science Engineering",
+    "phd": "PhD, IIT Kharagpur, India",
+    "email": null
+  },
+  {
+    "name": "Dr Jatis Kumar Dash",
+    "title": "Associate Professor",
+    "department": "Physics",
+    "phd": "PhD, Institute of Physics Odisha, India",
+    "email": null
+  },
+   {
+      "name": "Dr V K Saraswat",
+      "title": "Member, NITI AAYOG (Chairperson)",
+      "department": null,
+      "phd": null,
+      "email": null
+    },
+    {
+      "name": "Prof. Satish Kumar",
+      "title": "Vice Chancellor, SRM University-AP (Co-Chairperson Ex-Officio)",
+      "department": null,
+      "phd": null,
+      "email": null
+    },
+    {
+      "name": "Dr S Chandra Sekhar",
+      "title": "Former Secretary, Department of Science & Technology (DST) (Member)",
+      "department": null,
+      "phd": null,
+      "email": null
+    },
+    {
+      "name": "Prof. K Satyanarayana",
+      "title": "Director, IIT Tirupati (Member)",
+      "department": null,
+      "phd": null,
+      "email": null
+    },
+    {
+      "name": "Dr Mahendra Dev",
+      "title": "Former Director and Vice Chancellor, Indira Gandhi Institute of Development Research (IGIDR), Mumbai (Member)",
+      "department": null,
+      "phd": null,
+      "email": null
+    },
+    {
+      "name": "Prof. B S Murthy",
+      "title": "Director, IIT Hyderabad (Member)",
+      "department": null,
+      "phd": null,
+      "email": null
+    },
+    {
+      "name": "Prof. U B Desai",
+      "title": "Chancellor, Anurag University, Hyderabad (Member)",
+      "department": null,
+      "phd": null,
+      "email": null
+    },
+    {
+      "name": "Dr K I Varaprasada Reddy",
+      "title": "Chairman Emeritus, Shantha Biotechnics Ltd (Member)",
+      "department": null,
+      "phd": null,
+      "email": null
+    },
+    {
+      "name": "Dr S R Rao",
+      "title": "Vice President, Sri Balaji Vidyapeeth, Pondicherry (Member)",
+      "department": null,
+      "phd": null,
+      "email": null
+    },
+    {
+      "name": "Prof. P Appa Rao",
+      "title": "Former Vice Chancellor, University of Hyderabad (Member)",
+      "department": null,
+      "phd": null,
+      "email": null
+    },
+    {
+      "name": "Prof. B V R Chowdari",
+      "title": "Senior Executive Director – President’s Office, School of Materials Science & Engineering, Nanyang Technological University Singapore (Member)",
+      "department": null,
+      "phd": null,
+      "email": null
+    },
+    {
+      "name": "Prof. Kamanio Chattopadhyay",
+      "title": "Professor, Department of Materials Engineering, IISc, Bangalore (Member)",
+      "department": null,
+      "phd": null,
+      "email": null
+    },
+    {
+      "name": "Prof. R Balasubramanian",
+      "title": "The Institute of Mathematical Science, C.I.T Campus Taramani, Chennai (Member)",
+      "department": null,
+      "phd": null,
+      "email": null
+    },
+    {
+      "name": "Prof. G P Das",
+      "title": "Emeritus Professor, TCG Centres for Research and Education in Science and Technology, Kolkata (Member)",
+      "department": null,
+      "phd": null,
+      "email": null
+    },
+    {
+      "name": "Dr Anil Kumar",
+      "title": "JC Bose National Fellow, Physical & Materials Chemistry Division, CSIR – National Chemical Laboratory (Member)",
+      "department": null,
+      "phd": null,
+      "email": null
+    },
+    {
+      "name": "Prof. Rajendra Srivastava",
+      "title": "Novartis Professor of Marketing Strategy and Innovation, Executive Director - Centre for Business Innovation (CBI), ISB, Hyderabad (Member)",
+      "department": null,
+      "phd": null,
+      "email": null
+    },
+    {
+      "name": "Prof. Ajit Sinha",
+      "title": "Director, Asian Development Research Institute, Patna (Member)",
+      "department": null,
+      "phd": null,
+      "email": null
+    },
+    {
+      "name": "Prof. B P Sinha",
+      "title": "Professor, IEEE Fellow, Advanced Computing & Microelectronics Unit, Indian Statistical Institute, Kolkata (Member)",
+      "department": null,
+      "phd": null,
+      "email": null
+    },
+    {
+      "name": "Dr Tata Narshimga Rao",
+      "title": "International Advanced Research Centre for Powder Metallurgy & New Materials (ARCI), Hyderabad (Member)",
+      "department": null,
+      "phd": null,
+      "email": null
+    },
+    {
+      "name": "Prof. Shyam R Asolekar",
+      "title": "Centre for Environmental Science & Engineering, IIT Bombay (Member)",
+      "department": null,
+      "phd": null,
+      "email": null
+    },
+    {
+      "name": "Prof. D. Narayana Rao",
+      "title": "Executive Director (Research), SRM Group (Member)",
+      "department": null,
+      "phd": null,
+      "email": null
+    },
+    {
+      "name": "Dr R Premkumar",
+      "title": "Registrar - SRM University-AP, Andhra Pradesh (Member - Secretary Ex-Officio)",
+      "department": null,
+      "phd": null,
+      "email": null
+    },
+    {
+      "name": "Prof. Ranjit Thapa",
+      "title": "Dean – Research, SRM University-AP, Andhra Pradesh (Member – Convener Ex-Officio)",
+      "department": null,
+      "phd": null,
+      "email": null
+    },
+  {
+    "name": "Dr V Sateeshkrishna Dhuli",
+    "title": "Assistant Professor",
+    "department": "Electronics and Communication Engineering",
+    "phd": "PhD, IIT Kanpur, India",
+    "email": null
+  },
+  {
+    "name": "Dr Rohit K Abhimalla",
+    "title": "Assistant Professor",
+    "department": "Management",
+    "phd": "PhD, University of Hyderabad, India",
+    "email": null
+  },
+  {
+    "name": "Dr Sobin C C",
+    "title": "Associate Professor",
+    "department": "Computer Science Engineering",
+    "phd": "PhD, IIT Roorkee, India",
+    "email": null
+  },
+  {
+    "name": "Dr Murali Krishna Enduri",
+    "title": "Associate Professor & Head",
+    "department": "Computer Science Engineering",
+    "phd": "PhD, IIT Gandhinagar, India",
+    "email": null
+  },
+  {
+    "name": "Dr Ajay Bhardwaj",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, Indian Institute of Technology-Mandi, India",
+    "email": null
+  },
+  {
+    "name": "Prof. G S VinodKumar",
+    "title": "Associate Dean, Technology Transfer Cell | Professor",
+    "department": "Mechanical Engineering",
+    "phd": "PhD, IIT Kharagpur, India",
+    "email": null
+  },
+  {
+    "name": "Dr Siddhartha Ghosh",
+    "title": "Associate Professor",
+    "department": "Physics",
+    "phd": "PhD, University of Florida, USA",
+    "email": null
+  },
+  {
+    "name": "Dr Sutharsan Govindarajan",
+    "title": "Associate Professor",
+    "department": "Biological Sciences",
+    "phd": "PhD, The Hebrew University of Jerusalem, Israel",
+    "email": null
+  },
+  {
+    "name": "Dr Shekhar Singh Negi",
+    "title": "Assistant Professor",
+    "department": "Mathematics",
+    "phd": "PhD, Indian Institute of Technology Mandi",
+    "email": null
+  },
+  {
+    "name": "Dr Surfarazhussain S. Halkarni",
+    "title": "Assistant Professor",
+    "department": "Mechanical Engineering",
+    "phd": "PhD, IIT Bombay, India",
+    "email": null
+  },
+  {
+    "name": "Dr Tapan Kumar Hota",
+    "title": "Assistant Professor",
+    "department": "Mathematics",
+    "phd": "PhD, IIT Ropar, Punjab",
+    "email": null
+  },
+  {
+    "name": "Prof. Prakash Jadhav",
+    "title": "Professor",
+    "department": "Mechanical Engineering",
+    "phd": "Head – Innovation, Design and Entrepreneurship Academy (IDEA)",
+    "email": null
+  },
+  {
+    "name": "Dr Punyashlok Dash",
+    "title": "Associate Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, Simon Fraser University (SFU, BC, Canada)\r\nCanada",
+    "email": null
+  },
+  {
+    "name": "Mr Arun Kumar Sivapuram",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, IIT Tirupati, India",
+    "email": null
+  },
+  {
+    "name": "Dr Firdoshi Parveen",
+    "title": "Assistant Professor",
+    "department": "Mathematics",
+    "phd": "PhD, IIT Kharagpur, India",
+    "email": null
+  },
+  {
+    "name": "Dr Kakumani K C Deepthi",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, NIT, Tiruchirappalli, India",
+    "email": null
+  },
+  {
+    "name": "Dr Sankhaneel Bisui",
+    "title": "Professor",
+    "department": "Mathematics",
+    "phd": "PhD, Tulane University, USA",
+    "email": null
+  },
+  {
+    "name": "Dr E Karthikeyan",
+    "title": "Associate Professor",
+    "department": "Electronics and Communication Engineering",
+    "phd": "PhD, IIT Delhi. India",
+    "email": null
+  },
+  {
+    "name": "Dr Lakshmi Sirisha Maganti",
+    "title": "Associate Professor & Head",
+    "department": "Mechanical Engineering",
+    "phd": "PhD, IIT Madras, India",
+    "email": null
+  },
+  {
+    "name": "Dr Amit Kumar Mandal",
+    "title": "Associate Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, NIT Durgapur, India",
+    "email": null
+  },
+  {
+    "name": "Dr Vijayakrishna Rowthu",
+    "title": "Assistant Professor",
+    "department": "Mathematics",
+    "phd": "PhD, IIT Kanpur, India",
+    "email": null
+  },
+  {
+    "name": "Dr Pranab Mandal",
+    "title": "Associate Professor",
+    "department": "Physics",
+    "phd": "PhD, Jawaharlal Nehru Centre for Advanced Scientific Research, Bangalore",
+    "email": null
+  },
+  {
+    "name": "Dr Manab Kundu",
+    "title": "Assistant Professor",
+    "department": "Mathematics",
+    "phd": "PhD, IIT (ISM) Dhanbad, India",
+    "email": null
+  },
+  {
+    "name": "Dr Manikandan V M",
+    "title": "Associate Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, IIITDM Kancheepuram, India",
+    "email": null
+  },
+  {
+    "name": "Prof. S Mannathan",
+    "title": "Professor",
+    "department": "Chemistry",
+    "phd": "Associate Director - TLC",
+    "email": null
+  },
+  {
+    "name": "Prof. C Durga Rao",
+    "title": "Professor",
+    "department": "Biological Sciences",
+    "phd": "PhD, Indian Institute of Science",
+    "email": null
+  },
+  {
+    "name": "Dr Pardha Saradhi Maram",
+    "title": "Associate Professor & Head",
+    "department": "Chemistry",
+    "phd": "PhD, IIT Madras, India",
+    "email": null
+  },
+  {
+    "name": "Dr Mallikarjuna Rao Motapothula",
+    "title": "Assistant Professor",
+    "department": "Physics",
+    "phd": "PhD, National University of Singapore, Singapore",
+    "email": null
+  },
+  {
+    "name": "Dr Sabyasachi Mukhopadhyay",
+    "title": "Associate Professor",
+    "department": "Physics",
+    "phd": "PhD, JNCASR, Bangalore",
+    "email": null
+  },
+  {
+    "name": "Dr Jayaseelan Murugaiyan",
+    "title": "Associate Dean – SEAS (Admission Outreach and Research Collaborations)",
+    "department": "Biological Sciences",
+    "phd": "PhD, University of Leipzig, Germany",
+    "email": null
+  },
+  {
+    "name": "Dr Laxmi Narayana Patro",
+    "title": "Associate Professor",
+    "department": "Physics",
+    "phd": "PhD, IIT Madras, India",
+    "email": null
+  },
+  {
+    "name": "Dr Ashok Kumar Pradhan",
+    "title": "Associate Professor",
+    "department": "Computer Science Engineering",
+    "phd": "PhD, NIT, Durgapur",
+    "email": null
+  },
+  {
+    "name": "Ms Kousani Banerjee",
+    "title": "Associate Professor",
+    "department": "Literature and Languages",
+    "phd": "PhD, The English and Foreign Languages University,\r\nHyderabad, India",
+    "email": null
+  },
+  {
+    "name": "Dr Rajni",
+    "title": "Assistant Professor",
+    "department": "Literature and Languages",
+    "phd": "PhD, EFLU, Hyderabad",
+    "email": null
+  },
+  {
+    "name": "Dr A Lakshmana Rao",
+    "title": "Associate Professor & HoD",
+    "department": "Commerce",
+    "phd": "PhD, Andhra University, India",
+    "email": null
+  },
+  {
+    "name": "Dr Mahesh Kumar Ravva",
+    "title": "Associate Professor & Assistant Dean (Research)",
+    "department": "Chemistry",
+    "phd": "PhD, CSIR-CLRI, India",
+    "email": null
+  },
+  {
+    "name": "Dr Edukondalu Chappidi",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, University of Hyderabad",
+    "email": null
+  },
+  {
+    "name": "Dr Priyanka. S.",
+    "title": "Associate Professor",
+    "department": "Computer Science Engineering",
+    "phd": "PhD, IIT (ISM), Dhanbad",
+    "email": null
+  },
+  {
+    "name": "Dr Gangi Reddy Salla",
+    "title": "Associate Professor",
+    "department": "Physics",
+    "phd": "PhD, Physical Research laboratory, Ahmedabad / Mohanlal Sukhadia University, Udaipur",
+    "email": null
+  },
+  {
+    "name": "Dr Pradyut Kumar Sanki",
+    "title": "Associate Professor",
+    "department": "Electronics and Communication Engineering",
+    "phd": "PhD, IIT Kharagpur, India",
+    "email": null
+  },
+  {
+    "name": "Dr Hemantha Kumar Kalluri",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, University of Hyderabad, India",
+    "email": null
+  },
+  {
+    "name": "Mr Naresh Nial",
+    "title": "Assistant Professor",
+    "department": "Paari School of Business",
+    "phd": "Ph.D. (Pursuing), Central University of Jharkhand",
+    "email": null
+  },
+  {
+    "name": "Dr Maanvender Singh",
+    "title": "Assistant Professor",
+    "department": "History",
+    "phd": "PhD, Sikkim University, Sikkim",
+    "email": null
+  },
+  {
+    "name": "Dr Firoj Gazi",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, University of Alberta, Edmonton, Canada",
+    "email": null
+  },
+  {
+    "name": "Dr Idris Hassan Bhat",
+    "title": "Assistant Professor",
+    "department": "Political Science",
+    "phd": "PhD, Jawaharlal Nehru University, India",
+    "email": null
+  },
+  {
+    "name": "Prof. Sheela Singh",
+    "title": "Professor",
+    "department": "Mechanical Engineering",
+    "phd": "Associate Director (Faculty Affairs)",
+    "email": null
+  },
+  {
+    "name": "Dr Bharat Bhushan Upadhyay",
+    "title": "Assistant Professor",
+    "department": "Electronics and Communication Engineering",
+    "phd": "PhD, IIT BHU, Varanasi",
+    "email": null
+  },
+  {
+    "name": "Prof. Anil K Suresh",
+    "title": "Professor",
+    "department": "Biological Sciences",
+    "phd": "PhD, NCL Pune University, India",
+    "email": null
+  },
+  {
+    "name": "Dr A V S Kamesh",
+    "title": "Professor",
+    "department": "Management",
+    "phd": "PhD, University of Hyderabad, Hyderabad, India",
+    "email": null
+  },
+  {
+    "name": "Dr Somesh Vinayak Tewari",
+    "title": "Assistant Professor & Head",
+    "department": "Electrical and Electronics Engineering",
+    "phd": "PhD, BARC, Homi Bhabha National Institute, India",
+    "email": null
+  },
+  {
+    "name": "Prof. Ranjit Thapa",
+    "title": "Dean - Research |  Professor",
+    "department": "Physics",
+    "phd": "PhD, Jadavpur University, India",
+    "email": null
+  },
+  {
+    "name": "Dr Kalyan Banerjee",
+    "title": "Assistant Professor",
+    "department": "Mathematics",
+    "phd": "PhD, University of Liverpool",
+    "email": null
+  },
+  {
+    "name": "Dr Ravi Kumar",
+    "title": "Assistant Professor",
+    "department": "Physics",
+    "phd": "PhD, IIT (ISM), Dhanbad, India",
+    "email": null
+  },
+  {
+    "name": "Dr Shoji D Thottathil",
+    "title": "Assistant Professor",
+    "department": "Environmental Science and Engineering",
+    "phd": "PhD, University of Quebec at Montreal, Canada",
+    "email": null
+  },
+  {
+    "name": "Dr Tarkeshwar Mahto",
+    "title": "Assistant Professor",
+    "department": "Electrical and Electronics Engineering",
+    "phd": "PhD, IIT (ISM) Dhanbad, Jharkhand, India",
+    "email": null
+  },
+  {
+    "name": "Dr V Udaya Sankar",
+    "title": "Assistant Professor",
+    "department": "Electronics and Communication Engineering",
+    "phd": "PhD, Indian Institute of Science, India",
+    "email": null
+  },
+  {
+    "name": "Dr Sreenivasulu Tupakula",
+    "title": "Associate Professor",
+    "department": "Electronics and Communication Engineering",
+    "phd": "PhD, Indian Institute of Science, Bangalore",
+    "email": null
+  },
+  {
+    "name": "Dr Ramanjaneya Reddy U",
+    "title": "Associate Professor",
+    "department": "Electrical and Electronics Engineering",
+    "phd": "PhD, NIT Warangal, India",
+    "email": null
+  },
+  {
+    "name": "Dr Priyank Varma",
+    "title": "Assistant Professor",
+    "department": "Literature and Languages",
+    "phd": "PhD, Foreign Language University,Telangana",
+    "email": null
+  },
+  {
+    "name": "Dr Ravi Kant Kumar",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, NIT Durgapur, India",
+    "email": null
+  },
+  {
+    "name": "Dr Deblina Dutta",
+    "title": "Assistant Professor",
+    "department": "Environmental Science and Engineering",
+    "phd": "PhD, IIT Kharagpur, India",
+    "email": null
+  },
+  {
+    "name": "Dr N Satya Krishna",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, NIT-Warangal, India",
+    "email": null
+  },
+  {
+    "name": "Dr Prasanthi Boyapati",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, ANU, Andhra Pradesh, India",
+    "email": null
+  },
+  {
+    "name": "Dr Sukanya Samanta",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "Indian Institute of Technology,\r\nKharagpur",
+    "email": null
+  },
+  {
+    "name": "Dr Srinivas Arukonda",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, NIT  Warangal, India",
+    "email": null
+  },
+  {
+    "name": "Dr Shuvendu Rana",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, IIT Guwahati, India",
+    "email": null
+  },
+  {
+    "name": "Prof. Vaddi Ramesh",
+    "title": "Professor",
+    "department": "Electronics and Communication Engineering",
+    "phd": "PhD, IIT Roorkee, India",
+    "email": null
+  },
+  {
+    "name": "Dr Ayesha Parveen Haroon",
+    "title": "Assistant Professor & HOD",
+    "department": "Psychology",
+    "phd": "PhD, University of Madras, India",
+    "email": null
+  },
+  {
+    "name": "Dr Ritika Verma",
+    "title": "Assistant Professor",
+    "department": "Literature and Languages",
+    "phd": "PhD, IIT Kharagpur, India",
+    "email": null
+  },
+  {
+    "name": "Dr Ram Baran Verma",
+    "title": "Assistant Professor",
+    "department": "Mathematics",
+    "phd": "PhD, IIT Gandhinagar, India",
+    "email": null
+  },
+  {
+    "name": "Dr Manjula R",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, IIT Kharagpur, India",
+    "email": null
+  },
+  {
+    "name": "Dr Robert Rahman Raman",
+    "title": "Assistant Professor",
+    "department": "History",
+    "phd": "PhD, CeMIS, University of Göttingen, Germany",
+    "email": null
+  },
+  {
+    "name": "Dr Chandan Kumar",
+    "title": "Assistant Professor",
+    "department": "Mechanical Engineering",
+    "phd": "PhD, IIT Guwahati, Assam, India",
+    "email": null
+  },
+  {
+    "name": "Dr Pulak Kar",
+    "title": "Assistant Professor",
+    "department": "Biological Sciences",
+    "phd": "PhD, University of Kalyani, India",
+    "email": null
+  },
+  {
+    "name": "Dr Jayasree Subramanian",
+    "title": "Associate Professor",
+    "department": "Mathematics",
+    "phd": "PhD, University of Hyderabad, India",
+    "email": null
+  },
+  {
+    "name": "Dr Saswat Kumar Ram",
+    "title": "Assistant Professor",
+    "department": "Electronics and Communication Engineering",
+    "phd": "PhD, NIT Rourkela, India",
+    "email": null
+  },
+  {
+    "name": "Dr J P Raja Pandiyan",
+    "title": "Assistant Professor",
+    "department": "Chemistry",
+    "phd": "PhD, National Chung Hsing University, Taiwan",
+    "email": null
+  },
+  {
+    "name": "Mr Mohammed Rashid Ul Ansar",
+    "title": "Assistant Professor",
+    "department": "Psychology",
+    "phd": "PhD, IIT Hyderabad, India",
+    "email": null
+  },
+  {
+    "name": "Mr L Srikanth",
+    "title": "Assistant Professor (Ad hoc)",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, Andhra University",
+    "email": null
+  },
+  {
+    "name": "Dr Madhu Latha",
+    "title": "Assistant Professor",
+    "department": "Management",
+    "phd": "PhD, IIT Patna, India",
+    "email": null
+  },
+  {
+    "name": "Dr Sanjay Kumar",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, NIT Jamshedpur, India",
+    "email": null
+  },
+  {
+    "name": "Dr Ashu Abdul",
+    "title": "Associate Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, Chang Gung University, Taiwan",
+    "email": null
+  },
+  {
+    "name": "Dr Ranjana Mehta",
+    "title": "Assistant Professor",
+    "department": "Mathematics",
+    "phd": "PhD, IIT Gandhinagar, India",
+    "email": null
+  },
+  {
+    "name": "Dr Lalita Mohan Mohapatra",
+    "title": "Assistant Professor & Head",
+    "department": "Management",
+    "phd": "PhD, IIT Madras, India",
+    "email": null
+  },
+  {
+    "name": "Dr Pankaj Pathak",
+    "title": "Associate Professor",
+    "department": "Environmental Science and Engineering",
+    "phd": "PhD, IIT Bombay, India",
+    "email": null
+  },
+  {
+    "name": "Dr P N V Syamala Rao M",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, GITAM, India",
+    "email": null
+  },
+  {
+    "name": "Dr Seema Rani",
+    "title": "Assistant Professor",
+    "department": "Chemistry",
+    "phd": "PhD, IISER Mohali, India",
+    "email": null
+  },
+  {
+    "name": "Dr GVP Bhagath Singh",
+    "title": "Associate Professor",
+    "department": "Civil Engineering",
+    "phd": "PhD, IIT Hyderabad, India",
+    "email": null
+  },
+  {
+    "name": "Dr Rajiv Senapati",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, IIIT Bhubaneswar, India",
+    "email": null
+  },
+  {
+    "name": "Dr Sujith Kalluri",
+    "title": "Associate Professor",
+    "department": "Electronics and Communication Engineering",
+    "phd": "PhD, University of Wollongong, Australia",
+    "email": null
+  },
+  {
+    "name": "Dr Sibendu Samanta",
+    "title": "Assistant Professor",
+    "department": "Electronics and Communication Engineering",
+    "phd": "PhD, IIT Kharagpur, India",
+    "email": null
+  },
+  {
+    "name": "Dr Goutam Rana",
+    "title": "Assistant Professor",
+    "department": "Electronics and Communication Engineering",
+    "phd": "PhD, IIT Bombay, India",
+    "email": null
+  },
+  {
+    "name": "Dr Naresh Kumar Vemula",
+    "title": "Assistant Professor",
+    "department": "Electrical and Electronics Engineering",
+    "phd": "PhD, IIT Patna, India",
+    "email": null
+  },
+  {
+    "name": "Dr Sriramulu Bojjagani",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, University of Hyderabad, Hyderabad, India",
+    "email": null
+  },
+  {
+    "name": "Dr Susmi Jacob",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, Kerala Technological University, Thiruvananthapuram",
+    "email": null
+  },
+  {
+    "name": "Dr Md. Muzakkir Hussain",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, Aligarh Muslim University, India",
+    "email": null
+  },
+  {
+    "name": "Dr Neeraj Kumar Sharma",
+    "title": "Assistant Professor",
+    "department": "Computer Science Engineering",
+    "phd": "PhD, NIT Karnataka, Surathkal, India",
+    "email": null
+  },
+  {
+    "name": "Dr Saleti Sumalatha",
+    "title": "Assistant Professor",
+    "department": "Computer Science Engineering",
+    "phd": "PhD, NIT Warangal, India",
+    "email": null
+  },
+  {
+    "name": "Dr Raviteja KVNS",
+    "title": "Assistant Professor & Head",
+    "department": "Civil Engineering",
+    "phd": "PhD, IIT Hyderabad, India",
+    "email": null
+  },
+  {
+    "name": "Dr Megha Yadav",
+    "title": "Assistant Professor",
+    "department": "History",
+    "phd": "PhD, Jawaharlal Nehru University, India",
+    "email": null
+  },
+  {
+    "name": "Dr Gaanutula Damodar Reddy",
+    "title": "Assistant Professor",
+    "department": "Mathematics",
+    "phd": "PhD, IISER Thiruvananthapuram, India",
+    "email": null
+  },
+  {
+    "name": "Dr Niravkumar P Raval",
+    "title": "Assistant Professor",
+    "department": "Environmental Science and Engineering",
+    "phd": "PhD, Gujarat University, India",
+    "email": null
+  },
+  {
+    "name": "Dr Kiran Kumar Nallamekala",
+    "title": "Assistant Professor",
+    "department": "Electrical and Electronics Engineering",
+    "phd": "PhD, IIT Hyderabad, India",
+    "email": null
+  },
+  {
+    "name": "Dr Satheesh Ellipilli",
+    "title": "DST - Ramanujan Fellowship Faculty",
+    "department": "Chemistry",
+    "phd": "PhD, IISER Pune, India",
+    "email": null
+  },
+  {
+    "name": "Ms Parvathy N",
+    "title": "Assistant Professor",
+    "department": "Literature and Languages",
+    "phd": "PhD, IIT, Patna\r\nIndia",
+    "email": null
+  },
+  {
+    "name": "Dr Niladri Sett",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, IIT Guwahati, India",
+    "email": null
+  },
+  {
+    "name": "Dr Aqsa Agha",
+    "title": "Assistant Professor",
+    "department": "History",
+    "phd": "PhD, Jawaharlal Nehru University, New Delhi",
+    "email": null
+  },
+  {
+    "name": "Dr Saikat Sinha",
+    "title": "Assistant Professor",
+    "department": "Environmental Science and Engineering",
+    "phd": "PhD, NTUT, Taiwan",
+    "email": null
+  },
+  {
+    "name": "Dr Soni Wadhwa",
+    "title": "Assistant Professor",
+    "department": "Literature and Languages",
+    "phd": "PhD, University of Mumbai, India",
+    "email": null
+  },
+  {
+    "name": "Dr Anusha Nalajala",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": null,
+    "email": null
+  },
+  {
+    "name": "Dr Supen Kumar Sah",
+    "title": "Assistant Professor",
+    "department": "Mechanical Engineering",
+    "phd": "PhD, IIT Kharagpur, India",
+    "email": null
+  },
+  {
+    "name": "Dr Uma Maheswar Arepalli",
+    "title": "Assistant Professor",
+    "department": "Civil Engineering",
+    "phd": "PhD, Worcester Polytechnic Institute (WPI),USA",
+    "email": null
+  },
+  {
+    "name": "Dr Kshira Sagar Sahoo",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, NIT Rourkela, India",
+    "email": null
+  },
+  {
+    "name": "Dr Balaji Babu",
+    "title": "Assistant Professor",
+    "department": "Chemistry",
+    "phd": "PhD, Indian Institute of Science (IISC), Bengaluru",
+    "email": null
+  },
+  {
+    "name": "Dr Ajay Dilip Kumar Marapatla",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, Pondicherry Central University, India.",
+    "email": null
+  },
+  {
+    "name": "Dr Arijit Saha",
+    "title": "Assistant Professor",
+    "department": "Civil Engineering",
+    "phd": "PhD, IIT  Kanpur, India",
+    "email": null
+  },
+  {
+    "name": "Dr Sandra Roshni Monteiro",
+    "title": "Assistant Professor",
+    "department": "Psychology",
+    "phd": "PhD, University of Hyderabad",
+    "email": null
+  },
+  {
+    "name": "Dr Amit Chakraborty",
+    "title": "Assistant Professor",
+    "department": "Physics",
+    "phd": "PhD, IACS, Kolkata, India",
+    "email": null
+  },
+  {
+    "name": "Dr Deep Raj",
+    "title": "Assistant Professor",
+    "department": "Environmental Science and Engineering",
+    "phd": "PhD, IIT (Indian School of Mines) Dhanbad,\r\nIndia",
+    "email": null
+  },
+  {
+    "name": "Dr K A Sunitha",
+    "title": "Associate Professor & Head",
+    "department": "Electronics and Communication Engineering",
+    "phd": "PhD, SRM IST, India",
+    "email": null
+  },
+  {
+    "name": "Dr Dimpal Janu",
+    "title": "Assistant Professor",
+    "department": "Electronics and Communication Engineering",
+    "phd": "PhD, MNIT Jaipur",
+    "email": null
+  },
+  {
+    "name": "Dr M Durga Prakash",
+    "title": "Associate Professor",
+    "department": "Electronics and Communications Engineering",
+    "phd": "PhD, IIT Hyderabad, India",
+    "email": null
+  },
+  {
+    "name": "Mr Shaik Johny Basha",
+    "title": "Assistant Professor-Ad hoc",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, JNTU Kakinada, Kakinada, India",
+    "email": null
+  },
+  {
+    "name": "Dr M Mahesh Kumar",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, NIT Warangal, India",
+    "email": null
+  },
+  {
+    "name": "Dr M Ramakrishnan",
+    "title": "Associate Professor",
+    "department": "Electronics and Communication Engineering",
+    "phd": "PhD, CEG, Anna University, India",
+    "email": null
+  },
+  {
+    "name": "Dr Manjesh Kumar",
+    "title": "Assistant Professor",
+    "department": "Mechanical Engineering",
+    "phd": "PhD, IIT Guwahati, India",
+    "email": null
+  },
+  {
+    "name": "Dr Arijit Datta",
+    "title": "Assistant Professor",
+    "department": "Electronics and Communication Engineering",
+    "phd": "PhD, NIT Agartala, India",
+    "email": null
+  },
+  {
+    "name": "Dr Md Asadul Haque",
+    "title": "Assistant Professor",
+    "department": "Management",
+    "phd": "PhD, Faculty of Management Studies & Research, Aligarh Muslim University",
+    "email": null
+  },
+  {
+    "name": "Dr M Naveen Kumar",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, NIT Tiruchirappalli, India",
+    "email": null
+  },
+  {
+    "name": "Dr Sazzad Ali Biswas",
+    "title": "Assistant Professor",
+    "department": "Mathematics",
+    "phd": "PhD, University of Hyderabad, India",
+    "email": null
+  },
+  {
+    "name": "Dr Harish Puppala",
+    "title": "Assistant Professor",
+    "department": "Civil Engineering,",
+    "phd": "PhD, BITS Pilani, India",
+    "email": null
+  },
+  {
+    "name": "Dr Vimal Babu",
+    "title": "Associate Professor",
+    "department": "Paari School of Business",
+    "phd": "PhD, FMS, Jamia Millia Islamia Central University, New Delhi, India",
+    "email": null
+  },
+  {
+    "name": "Dr Banee Bandana Das",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, NIT Rourkela, India",
+    "email": null
+  },
+  {
+    "name": "Dr Sudhakar Tummala",
+    "title": "Assistant Professor",
+    "department": "Electronics and Communication Engineering",
+    "phd": "PhD, University of Copenhagen, Copenhagen, Denmark",
+    "email": null
+  },
+  {
+    "name": "Dr Manaswini Sen",
+    "title": "Assistant Professor",
+    "department": "History",
+    "phd": "PhD, University of Hyderabad, India",
+    "email": null
+  },
+  {
+    "name": "Dr Dinesh Reddy Vemula",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, University of Hyderabad, Hyderabad",
+    "email": null
+  },
+  {
+    "name": "Dr Sowkuntla Pandu",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, University of Hyderbad, India",
+    "email": null
+  },
+  {
+    "name": "Dr Subashree Kothandaraman",
+    "title": "Assistant Professor",
+    "department": "Environmental Science and Engineering",
+    "phd": "PhD, Pondicherry University, India",
+    "email": null
+  },
+  {
+    "name": "Dr Raghvendra",
+    "title": "Assistant Professor",
+    "department": "Electronics and Communication Engineering",
+    "phd": "PhD, IIT Patna, India",
+    "email": null
+  },
+  {
+    "name": "Dr M Dhamodharan",
+    "title": "Assistant Professor",
+    "department": "Psychology",
+    "phd": "PhD, Pondicherry Central University, India",
+    "email": null
+  },
+  {
+    "name": "Mr M Adalf",
+    "title": "Assistant Professor-Ad hoc",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, Amrita Vishwa Vidhyapeetham, AP",
+    "email": null
+  },
+  {
+    "name": "Dr MD Nasir",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, Visva-Bharati University, West Bengal",
+    "email": null
+  },
+  {
+    "name": "Dr Mohit Aggarwal",
+    "title": "Assistant Professor (Ad hoc)",
+    "department": "Civil Engineering",
+    "phd": "PhD, IIT Bhubaneswar, India",
+    "email": null
+  },
+  {
+    "name": "Dr Johannes Kirscher",
+    "title": "Associate Professor",
+    "department": "Physics",
+    "phd": "PhD, The George Washington University",
+    "email": null
+  },
+  {
+    "name": "Dr Uttiya Dey",
+    "title": "Assistant Professor (Ad hoc)",
+    "department": "Environmental Science and Engineering",
+    "phd": "PhD, The University of Burdwan",
+    "email": null
+  },
+  {
+    "name": "Dr Ainal Hoque Gazi",
+    "title": "Assistant Professor",
+    "department": "Civil Engineering",
+    "phd": "PhD, IIT  Kharagpur, India",
+    "email": null
+  },
+  {
+    "name": "Dr Subhankar Ghatak",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, IIIT Bhubaneshwar, India",
+    "email": null
+  },
+  {
+    "name": "Dr Hema Kumar Yarnagula",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, IIT Guwahati, India",
+    "email": null
+  },
+  {
+    "name": "Dr Pitchaiah Cherukuri",
+    "title": "Assistant Professor",
+    "department": "Biological Sciences",
+    "phd": "PhD, IMPRS /European Neuroscience Institute (ENI), Göttingen, Germany",
+    "email": null
+  },
+  {
+    "name": "Dr Sonali Mondal",
+    "title": "Assistant Professor",
+    "department": "Mathematics",
+    "phd": "PhD, IIT  Dhanbad, Jharkhand",
+    "email": null
+  },
+  {
+    "name": "Prof. P Vivekananda Shanmuganathan",
+    "title": "Professor",
+    "department": "Mechanical Engineering",
+    "phd": "PhD, IIT Bombay, India",
+    "email": null
+  },
+  {
+    "name": "Dr Sandeep Kumar Verma",
+    "title": "Assistant Professor",
+    "department": "Mathematics",
+    "phd": "PhD, IIT (ISM), Dhanbad, India",
+    "email": null
+  },
+  {
+    "name": "Dr Naga Bhushana Rao Karampudi",
+    "title": "Assistant Professor",
+    "department": "Biological Sciences",
+    "phd": "PhD, IIT Kharagpur, India",
+    "email": null
+  },
+  {
+    "name": "Dr Anirban Bose",
+    "title": "Assistant Professor",
+    "department": "Mathematics",
+    "phd": "PhD, Indian Statistical Institute, Delhi Centre",
+    "email": null
+  },
+  {
+    "name": "Dr Nelatoori Kiran Babu",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, NIT Andhra Pradesh, India",
+    "email": null
+  },
+  {
+    "name": "Dr Bikku R",
+    "title": "Assistant Professor",
+    "department": "Sociology and Anthropology",
+    "phd": "PhD, University of Hyderabad, Hyderabad, India",
+    "email": null
+  },
+  {
+    "name": "Dr Pavithra M R",
+    "title": "Assistant Professor",
+    "department": "Management",
+    "phd": "PhD, Periyar University, Salem",
+    "email": null
+  },
+  {
+    "name": "Dr Supravat Dey",
+    "title": "Assistant Professor",
+    "department": "Physics",
+    "phd": "PhD, IIT Bombay, India",
+    "email": null
+  },
+  {
+    "name": "Dr Satish Kumar Tiwari",
+    "title": "Assistant Professor",
+    "department": "Electronics and Communication Engineering",
+    "phd": "PhD, IIT Indore, India",
+    "email": null
+  },
+  {
+    "name": "Dr Vitalram Rayankula",
+    "title": "Assistant Professor",
+    "department": "Mechanical Engineering",
+    "phd": "PhD, IIT Roorkee, India",
+    "email": null
+  },
+  {
+    "name": "Dr V Ramanjaneyulu Yannam",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, NIT Rourkela, India",
+    "email": null
+  },
+  {
+    "name": "Dr Mudassir Rafi",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, IIT(ISM) Dhanbad, India",
+    "email": null
+  },
+  {
+    "name": "Dr Nityananda Roy",
+    "title": "Assistant Professor",
+    "department": "Mathematics",
+    "phd": "PhD, IIT Madras, India",
+    "email": null
+  },
+  {
+    "name": "Dr Siddhant Dash",
+    "title": "Assistant Professor",
+    "department": "Civil Engineering",
+    "phd": "PhD, IIT Guwahati, Assam, India",
+    "email": null
+  },
+  {
+    "name": "Mr Sudheer Babu Punuri",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, GIETU – Gunupur, Odisha, India",
+    "email": null
+  },
+  {
+    "name": "Dr Rajoshree Chatterjee",
+    "title": "Assistant Professor",
+    "department": "Literature and Languages",
+    "phd": "PhD, IIT Kharagpur, India",
+    "email": null
+  },
+  {
+    "name": "Prof. Vishnupad",
+    "title": "Professor and Dean",
+    "department": "Easwari School of Liberal Arts",
+    "phd": "PhD, Columbia University, USA",
+    "email": null
+  },
+  {
+    "name": "Prof. Rupesh Kumar",
+    "title": "Prof. In-Charge for Industry-Academia Relations",
+    "department": "Prof. of ECE",
+    "phd": "PhD, Telecom ParisTech, France",
+    "email": null
+  },
+  {
+    "name": "Dr Koyel Chakravarty",
+    "title": "Assistant Professor",
+    "department": "Mathematics",
+    "phd": "PhD, IIT Guwahati, India",
+    "email": null
+  },
+  {
+    "name": "Dr Aswathy Gopi",
+    "title": "Assistant Professor",
+    "department": "Psychology",
+    "phd": "PhD, Central University of Karnataka",
+    "email": null
+  },
+  {
+    "name": "Dr Chebrolu Pulla Rao",
+    "title": "Senior Professor",
+    "department": "Chemistry",
+    "phd": "PhD, Indian Institute of Science, Bangalore, India",
+    "email": null
+  },
+  {
+    "name": "Mr Satyanarayana Duvvuri",
+    "title": "Associate Director - DEEPS & Professor of Practice",
+    "department": "Paari School of Business",
+    "phd": null,
+    "email": null
+  },
+  {
+    "name": "Dr Chandana Deka",
+    "title": "Assistant Professor",
+    "department": "Political Science",
+    "phd": "PhD, IIT Guwahati, India",
+    "email": null
+  },
+  {
+    "name": "Dr Krovi Raja Sekhar",
+    "title": "CEO, Hatchlab Research Centre and Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, Acharya Nagarjuna University, Guntur, AP",
+    "email": null
+  },
+  {
+    "name": "Dr Paramita Ray",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, University of Calcutta, India",
+    "email": null
+  },
+  {
+    "name": "Dr Partha Bhattacharjee",
+    "title": "Assistant Professor",
+    "department": "Literature and Languages",
+    "phd": "PhD, IIT Patna, India",
+    "email": null
+  },
+  {
+    "name": "Dr Debabrata Pramanik",
+    "title": "Assistant Professor",
+    "department": "Physics",
+    "phd": "PhD, IISc Bangalore, India",
+    "email": null
+  },
+  {
+    "name": "Dr Kousik Das",
+    "title": "Assistant Professor",
+    "department": "Environmental Science and Engineering",
+    "phd": "PhD, IIT  Kharagpur, Inida",
+    "email": null
+  },
+  {
+    "name": "Dr Patta Supraja",
+    "title": "Assistant Professor",
+    "department": "Electronics and Communication Engineering",
+    "phd": "PhD, IIT  Hyderabad, India",
+    "email": null
+  },
+  {
+    "name": "Dr Aftab Alam",
+    "title": "Assistant Professor",
+    "department": "Paari School of Business",
+    "phd": "PhD, IIT Kharagpur, India",
+    "email": null
+  },
+  {
+    "name": "Dr  Lekshmi Chandran C P",
+    "title": "Assistant Professor",
+    "department": "History",
+    "phd": "PhD, CHS, School of Social Sciences, Jawaharlal Nehru University, New Delhi",
+    "email": null
+  },
+  {
+    "name": "Dr Syed Tajammul Ahmad",
+    "title": "Assistant Professor",
+    "department": "Electronics and Communication Engineering",
+    "phd": "PhD, IIT  Kanpur, India",
+    "email": null
+  },
+  {
+    "name": "Dr Kunchanapalli Ramya",
+    "title": "Assistant Professor (Ad hoc)",
+    "department": "Physics",
+    "phd": "PhD, SRM University- AP",
+    "email": null
+  },
+  {
+    "name": "Dr Arghya Chakravarty",
+    "title": "Assistant Professor",
+    "department": "Electrical \r\nand Electronics Engineering",
+    "phd": "PhD, IIT Guwahati,, India",
+    "email": null
+  },
+  {
+    "name": "Dr Satyavir Singh",
+    "title": "Assistant Professor",
+    "department": "Electrical and Electronics Engineering",
+    "phd": "PhD, NIT Srinagar, India",
+    "email": null
+  },
+  {
+    "name": "Dr Pratik Roy",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, University of Calcutta, India",
+    "email": null
+  },
+  {
+    "name": "Dr M Krishna Siva Prasad",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, VNIT Maharashtra, India",
+    "email": null
+  },
+  {
+    "name": "Dr Pankaj Bhalla",
+    "title": "Assistant Professor",
+    "department": "Physics",
+    "phd": "PhD, Physical Research Laboratory, Ahmedabad",
+    "email": null
+  },
+  {
+    "name": "Dr Manish Kumar",
+    "title": "Assistant Professor & Head",
+    "department": "Economics",
+    "phd": "PhD, IIT Bombay, India",
+    "email": null
+  },
+  {
+    "name": "Dr Elakkiya E",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, NIT Tiruchirappalli, India",
+    "email": null
+  },
+  {
+    "name": "Dr Karthik Rajendran",
+    "title": "Associate Professor",
+    "department": "Environmental Science and Engineering",
+    "phd": "Associate Dean - Quality Assurance and Rankings",
+    "email": null
+  },
+  {
+    "name": "Dr Md Faiz Ahmad",
+    "title": "Assistant Professor",
+    "department": "Management",
+    "phd": "PhD, University of Hyderabad, India",
+    "email": null
+  },
+  {
+    "name": "Dr Manasi Sinha",
+    "title": "Assistant Professor",
+    "department": "Political Science",
+    "phd": "PhD, JNU, India",
+    "email": null
+  },
+  {
+    "name": "Dr Pranav R T Peddinti",
+    "title": "Assistant Professor",
+    "department": "Civil Engineering",
+    "phd": "PhD, IIT Hyderabad, India",
+    "email": null
+  },
+  {
+    "name": "Dr Ch Anil Carie",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, Dalian University of Technology, China",
+    "email": null
+  },
+  {
+    "name": "Dr V Veeravel",
+    "title": "Assistant Professor",
+    "department": "Management",
+    "phd": "PhD, Pondicherry University, India",
+    "email": null
+  },
+  {
+    "name": "Dr Kamatham Narayanaswamy",
+    "title": "Assistant Professor",
+    "department": "Chemistry\r\nCSIR - IICT, Hyderabad",
+    "phd": null,
+    "email": null
+  },
+  {
+    "name": "Dr Vineeth Thomas",
+    "title": "Assistant Professor & Head of the Department",
+    "department": "Political Science",
+    "phd": "PhD, Pondicherry University, India",
+    "email": null
+  },
+  {
+    "name": "Prof. Niraj Upadhyaya",
+    "title": "Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, University of West of England, Bristol, UK",
+    "email": null
+  },
+  {
+    "name": "Dr Randhir Kumar",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, NIT Raipur, India",
+    "email": null
+  },
+  {
+    "name": "Ms Chintalapudi V N U Bharathi Murthy",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, VIT University, Vellore, India",
+    "email": null
+  },
+  {
+    "name": "Dr Ashmita Das",
+    "title": "Assistant Professor",
+    "department": "Physics",
+    "phd": "PhD, Indian Association for the Cultivation of Science, Kolkata, India",
+    "email": null
+  },
+  {
+    "name": "Dr Debajyoti Kundu",
+    "title": "Assistant Professor",
+    "department": "Environmental Science and Engineering",
+    "phd": "PhD, IIT Kharagpur, India",
+    "email": null
+  },
+  {
+    "name": "Dr Surla Vishnu Kanchana Naresh",
+    "title": "Assistant Professor",
+    "department": "Electrical and Electronics Engineering",
+    "phd": "PhD, NIT Andhra Pradesh, India",
+    "email": null
+  },
+  {
+    "name": "Dr Awadhesh Dixit",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, VIT-AP University (AP)",
+    "email": null
+  },
+  {
+    "name": "Dr Anita Halder",
+    "title": "Assistant Professor",
+    "department": "Physics",
+    "phd": "PhD, S N Bose National Centre for Basic Sciences",
+    "email": null
+  },
+  {
+    "name": "Dr Ramesh Kumar",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, IIT (ISM), Dhanbad",
+    "email": null
+  },
+  {
+    "name": "Mr Parvez Ahmad",
+    "title": "Assistant Professor",
+    "department": "Paari School of Business",
+    "phd": "PhD, University of Hyderabad, India",
+    "email": null
+  },
+  {
+    "name": "Dr Repaka Subha Sandeep",
+    "title": "Assistant Professor",
+    "department": "Mathematics",
+    "phd": "PhD, University of Oklahoma, USA",
+    "email": null
+  },
+  {
+    "name": "Dr Rangabhashiyam Selvasembian",
+    "title": "Associate Professor",
+    "department": "Environmental Science and Engineering",
+    "phd": "PhD, NIT, Calicut",
+    "email": null
+  },
+  {
+    "name": "Dr Debabrata Senapati",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, IITG, Assam",
+    "email": null
+  },
+  {
+    "name": "Mr Rajesh Yelchuri",
+    "title": "Assistant Professor",
+    "department": "Department of Computer Science and Engineering",
+    "phd": "SRM University-AP",
+    "email": null
+  },
+  {
+    "name": "Ms Sikhinam Nagamani",
+    "title": "Assistant Professor-Ad hoc",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, IIIT Trichy, India",
+    "email": null
+  },
+  {
+    "name": "Dr Suryakanta Nayak",
+    "title": "Assistant Professor",
+    "department": "Paari School of Business",
+    "phd": "PhD, IIIT Bhubaneswar, India",
+    "email": null
+  },
+  {
+    "name": "Dr Anirban Bhar",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, Georg-August University, Goettingen, Germany",
+    "email": null
+  },
+  {
+    "name": "Dr Uma Sankararao Varri",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, NIT Warangal, Telangana",
+    "email": null
+  },
+  {
+    "name": "Prof. Vandana Swami",
+    "title": "Associate Dean (Academic Operations and Outreach)",
+    "department": "Liberal Arts",
+    "phd": "PhD, SUNY, Binghamton",
+    "email": null
+  },
+  {
+    "name": "Mr Dharma Theja T",
+    "title": "Assistant Professor",
+    "department": "Paari School of Business",
+    "phd": "PhD, Osmania University, India",
+    "email": null
+  },
+  {
+    "name": "Mr Ravi Prakash S",
+    "title": "Assistant Professor",
+    "department": "Paari School of Business",
+    "phd": "PhD, Dravidian University, India",
+    "email": null
+  },
+  {
+    "name": "Dr Inturi Anitha Rani",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": null,
+    "email": null
+  },
+  {
+    "name": "Dr Basina Deepakraj",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, IIT Guwahati, India",
+    "email": null
+  },
+  {
+    "name": "Dr P S Biswa Bhusan Sahoo",
+    "title": "Assistant Professor",
+    "department": "Paari School of Business",
+    "phd": "PhD, NIT Rourkela, India",
+    "email": null
+  },
+  {
+    "name": "Dr Choiti Bandyopadhyay",
+    "title": "Assistant Professor",
+    "department": "Mathematics",
+    "phd": "PhD, University of Alberta, Canada",
+    "email": null
+  },
+  {
+    "name": "Dr Prateek Gupta",
+    "title": "Assistant Professor",
+    "department": "Biological Sciences",
+    "phd": "PhD, University of Hyderabad, Hyderabad, India",
+    "email": null
+  },
+  {
+    "name": "Dr Achala Shakya",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, NIT Kurukshetra, India",
+    "email": null
+  },
+  {
+    "name": "Dr Sebanti Chatterjee",
+    "title": "Assistant Professor",
+    "department": "Liberal Arts",
+    "phd": "PhD, DSE, University of Delhi, India",
+    "email": null
+  },
+  {
+    "name": "Dr Nafeesathul Basariya",
+    "title": "Assistant Professor",
+    "department": "Paari School of Business",
+    "phd": "PhD, NIT Thiruchirappalli, India",
+    "email": null
+  },
+  {
+    "name": "Dr Shaiju Panchikkil",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": null,
+    "email": null
+  },
+  {
+    "name": "Mr Chittoor Bhanu Prakash",
+    "title": "Assistant Professor",
+    "department": "Mechanical Engineering",
+    "phd": "PhD, JNTU, Hyderabad, India",
+    "email": null
+  },
+  {
+    "name": "Dr Adviti Devaguptapu",
+    "title": "Assistant Professor",
+    "department": "Economics",
+    "phd": "PhD, IIM Raipur, India",
+    "email": null
+  },
+  {
+    "name": "Dr Chinmoy Das",
+    "title": "Assistant Professor",
+    "department": "Chemistry",
+    "phd": "PhD, IIT Bombay, India",
+    "email": null
+  },
+  {
+    "name": "Mr Amlan Baisya",
+    "title": "Assistant Professor",
+    "department": "Literature and Languages",
+    "phd": null,
+    "email": null
+  },
+  {
+    "name": "Dr Surinder Kaur",
+    "title": "Assistant Professor",
+    "department": "Mathematics",
+    "phd": "PhD, IIT Ropar, India",
+    "email": null
+  },
+  {
+    "name": "Dr Aurolipsa Das",
+    "title": "Assistant Professor",
+    "department": "Economics",
+    "phd": "PhD, NIT Rourkela, India",
+    "email": null
+  },
+  {
+    "name": "Dr Thirukovela Nikhilesh",
+    "title": "Assistant Professor",
+    "department": "Literature and Languages",
+    "phd": "PhD, IIT Delhi, India",
+    "email": null
+  },
+  {
+    "name": "Dr Mrutyunjaya Mangaraj",
+    "title": "Assistant Professor",
+    "department": "Electrical and Electronics Engineering",
+    "phd": "PhD, NIT Rourkela, India",
+    "email": null
+  },
+  {
+    "name": "Dr Sayantan Thakur",
+    "title": "Assistant Professor and Head",
+    "department": "Literature and Languages",
+    "phd": "PhD, Tilka Manjhi Bhagalpur University, India",
+    "email": null
+  },
+  {
+    "name": "Dr Krishanu Roy",
+    "title": "Assistant Professor",
+    "department": "Mathematics",
+    "phd": "PhD, The Institute of Mathematical Sciences, Chennai, India",
+    "email": null
+  },
+  {
+    "name": "Dr Suraj Singh Khurana",
+    "title": "Assistant Professor",
+    "department": "Mathematics",
+    "phd": "PhD, IIT Ropar, India",
+    "email": null
+  },
+  {
+    "name": "Dr Sheetal Yadav",
+    "title": "Assistant Professor",
+    "department": "Literature and Languages",
+    "phd": "PhD, IIT Roorkee, India",
+    "email": null
+  },
+  {
+    "name": "Dr Javid Ahmad Dar",
+    "title": "Assistant Professor",
+    "department": "Environmental Science and Engineering",
+    "phd": "PhD, Pondicherry University, India",
+    "email": null
+  },
+  {
+    "name": "Dr Kanaparthi Suresh Kumar",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, NIT Warangal, TG, India",
+    "email": null
+  },
+  {
+    "name": "Mr Boddu L V Siva Rama Krishna",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, Annamalai University, Chidambaram,Tamil Nadu, India",
+    "email": null
+  },
+  {
+    "name": "Dr Kaushik Saha",
+    "title": "Assistant Professor",
+    "department": "Biological Sciences",
+    "phd": "PhD, University of Cambridge, UK",
+    "email": null
+  },
+  {
+    "name": "Dr Sudeshna Saha",
+    "title": "Assistant Director - IR & HS & Assistant Professor",
+    "department": "Biological Sciences",
+    "phd": "PhD, Boston College, USA",
+    "email": null
+  },
+  {
+    "name": "Dr Bidisha Pal",
+    "title": "Assistant Professor",
+    "department": "Literature and Languages",
+    "phd": "PhD, IIT (ISM) Dhanbad, India",
+    "email": null
+  },
+  {
+    "name": "Dr Basabendu Barman",
+    "title": "Assistant Professor",
+    "department": "Physics",
+    "phd": "PhD, IIT Guwahati, India",
+    "email": null
+  },
+  {
+    "name": "Dr Daigy Varghese",
+    "title": "Assistant Professor",
+    "department": "Psychology",
+    "phd": "PhD, IIT Hyderabad",
+    "email": null
+  },
+  {
+    "name": "Dr Sahadeb Shit",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, CSIR-CMERI, India",
+    "email": null
+  },
+  {
+    "name": "Dr Pratikanta Mishra",
+    "title": "Assistant Professor",
+    "department": "Electrical and Electronics Engineering",
+    "phd": "PhD, NIT Meghalaya,India",
+    "email": null
+  },
+  {
+    "name": "Dr Ishita Sar",
+    "title": "Assistant Professor",
+    "department": "Paari School of Business",
+    "phd": "PhD, IIT Kharagpur, India",
+    "email": null
+  },
+  {
+    "name": "Dr Ankur Srivastava",
+    "title": "Assistant Professor",
+    "department": "Electrical and Electronics Engineering",
+    "phd": "PhD, IIT Roorkee, India",
+    "email": null
+  },
+  {
+    "name": "Dr Prabhujit Mohapatra",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, NIT Silchar, Assam, India",
+    "email": null
+  },
+  {
+    "name": "Dr Bijeta Mishra",
+    "title": "Assistant Professor",
+    "department": "Psychology",
+    "phd": "PhD, NIT, India",
+    "email": null
+  },
+  {
+    "name": "Dr Boddu Srujana",
+    "title": "Assistant Professor",
+    "department": "Economics",
+    "phd": "PhD, Madras Institute of Development Studies\r\nIndia",
+    "email": null
+  },
+  {
+    "name": "Dr Reshmi",
+    "title": "Assistant Professor",
+    "department": "Paari School of Business",
+    "phd": "PhD, Tata Institute of Social Sciences, Mumbai",
+    "email": null
+  },
+  {
+    "name": "Dr Krishna Manaswi J",
+    "title": "Assistant Professor",
+    "department": "Paari School of Business",
+    "phd": "PhD, BITS Pilani, Pilani, India",
+    "email": null
+  },
+  {
+    "name": "Prof. C V Tomy",
+    "title": "Dean-SEAS & Professor",
+    "department": "Physics",
+    "phd": "PhD,TIFR, Bombay",
+    "email": null
+  },
+  {
+    "name": "Ms Tonmoya Sarmah",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": null,
+    "email": null
+  },
+  {
+    "name": "Dr Nilakantha Meher",
+    "title": "Assistant Professor",
+    "department": "Physics",
+    "phd": "PhD,  IGCAR, Kalpakkam",
+    "email": null
+  },
+  {
+    "name": "Mr VRPS Sastry Yadavilli",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, NIT, Andhra Pradesh",
+    "email": null
+  },
+  {
+    "name": "Dr Prakash Chandra",
+    "title": "Assistant Professor",
+    "department": "Mathematics",
+    "phd": "PhD, Indian Institute of Technology, Patna",
+    "email": null
+  },
+  {
+    "name": "Dr Nirmalendu Sekhar Mishra",
+    "title": "Assistant Professor",
+    "department": "Environmental Science and Engineering",
+    "phd": "PhD, IIT Dhanbad, India",
+    "email": null
+  },
+  {
+    "name": "Dr Medipelly Rampavan",
+    "title": "Assistant Professor,",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, NIT, Warangal, India",
+    "email": null
+  },
+  {
+    "name": "Dr Isunuri Bala Venkateswarlu",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, IIITDM, Kancheepuram",
+    "email": null
+  },
+  {
+    "name": "Mr Gavaskar S",
+    "title": "Assistant Professor (Ad hoc)",
+    "department": "Computer Science and Engineering",
+    "phd": null,
+    "email": null
+  },
+  {
+    "name": "Dr Narayanamoorthy Bhuvanendran",
+    "title": "Assistant Professor",
+    "department": "Environmental Science and Engineering",
+    "phd": "PhD, SCSVMV University, India",
+    "email": null
+  },
+  {
+    "name": "Dr Naga Sravanthi",
+    "title": "Assistant Professor (Ad hoc)",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, Puducherry Technological University, India",
+    "email": null
+  },
+  {
+    "name": "Dr Sarvani Anandarao",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, VIT University, Chennai",
+    "email": null
+  },
+  {
+    "name": "Dr Swetamber P Das",
+    "title": "Assistant Professor",
+    "department": "Physics",
+    "phd": "PhD, IIT Madras, India",
+    "email": null
+  },
+  {
+    "name": "Dr K V T K N Prashanth",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, NIT, Warangal",
+    "email": null
+  },
+  {
+    "name": "Dr Kona Veera Ganesh",
+    "title": "Assistant Professor",
+    "department": "Civil Engineering",
+    "phd": "PhD, IIT Kharagpur, India",
+    "email": null
+  },
+  {
+    "name": "Dr Md Najrul Islam",
+    "title": "Assistant Professor",
+    "department": "Electronics and Communication Engineering",
+    "phd": "PhD, IIT Mandi, India",
+    "email": null
+  },
+  {
+    "name": "Dr Vigneswaran V S",
+    "title": "Assistant Professor (Ad hoc)",
+    "department": "Environmental Science and Engineering",
+    "phd": "PhD, CEG campus, Anna University, Chennai",
+    "email": null
+  },
+  {
+    "name": "Dr Mohan Venkatesh Palani",
+    "title": "Assistant Professor",
+    "department": "Paari School of Business",
+    "phd": "PhD, University of Hyderabad\r\nIndia",
+    "email": null
+  },
+  {
+    "name": "Dr Abhijit Dasgupta",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, Machine Intelligence Unit, ISI,(Jadavpur University) India",
+    "email": null
+  },
+  {
+    "name": "Dr Rajendra Kumar",
+    "title": "Assistant Professor",
+    "department": "Electrical and Electronics Engineering",
+    "phd": "PhD, IIT Guwahati, India",
+    "email": null
+  },
+  {
+    "name": "Dr Krishna Prasad Maity",
+    "title": "Assistant Professor",
+    "department": "Physics",
+    "phd": "PhD, IISc, Bengaluru",
+    "email": null
+  },
+  {
+    "name": "Dr Sujit Das",
+    "title": "Assistant Professor",
+    "department": "Mechanical Engineering",
+    "phd": "PhD, IIT Guwahati, India",
+    "email": null
+  },
+  {
+    "name": "Mr P Udayaraju",
+    "title": "Assistant Professor (Ad hoc)",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, SIST, Chennai",
+    "email": null
+  },
+  {
+    "name": "Prof. Kalyan Chakraborty",
+    "title": "Professor and Head",
+    "department": "Mathematics",
+    "phd": "PhD, Harish-Chandra Research Institute",
+    "email": null
+  },
+  {
+    "name": "Dr Mohammad Abdussami",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, Vaagdevi College of Engineering, JNTU-Hyderabad",
+    "email": null
+  },
+  {
+    "name": "Ms Roopa Tirumalasetti",
+    "title": "Assistant Professor (Ad hoc)",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, VIT AP University",
+    "email": null
+  },
+  {
+    "name": "Dr Diksha",
+    "title": "Assistant Professor (Ad hoc)",
+    "department": "Physics",
+    "phd": "PhD, SRM University-AP",
+    "email": null
+  },
+  {
+    "name": "Mr Balvinder Singh Bondili",
+    "title": "Assistant Professor (Ad hoc)",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, Andhra University, India",
+    "email": null
+  },
+  {
+    "name": "Dr Bhaskara Santhosh Egala",
+    "title": "Assistant Professor",
+    "department": "Computer Science & Engineering",
+    "phd": "PhD, SRM University-AP",
+    "email": null
+  },
+  {
+    "name": "Dr G Santhosh Kumar",
+    "title": "Assistant Professor (Ad hoc)",
+    "department": "Civil Engineering",
+    "phd": "PhD, NIT, Andhra Pradesh",
+    "email": null
+  },
+  {
+    "name": "Dr Jyotibhusan Padhi",
+    "title": "Assistant Professor",
+    "department": "Electronics and Communication Engineering",
+    "phd": "PhD, IIT Mandi, Himachal Pradesh",
+    "email": null
+  },
+  {
+    "name": "Dr Saranya Antony A",
+    "title": "Assistant Professor",
+    "department": "Political Science",
+    "phd": "PhD, Jawaharlal Nehru University, India",
+    "email": null
+  },
+  {
+    "name": "Dr Geeta Devi",
+    "title": "Assistant Professor (Ad hoc)",
+    "department": "Civil Engineering",
+    "phd": "PhD, Delhi Technological University, Delhi",
+    "email": null
+  },
+  {
+    "name": "Dr Aguru Aswani Devi",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, NIT Warangal, India",
+    "email": null
+  },
+  {
+    "name": "Dr Dipesh Jadhav",
+    "title": "Assistant Professor",
+    "department": "Biological Sciences",
+    "phd": "PhD, CSIR- National Chemical Laboratory, India",
+    "email": null
+  },
+  {
+    "name": "Dr Devdutt Tripathi",
+    "title": "Assistant Professor",
+    "department": "Electronics and Communication Engineering",
+    "phd": "PhD, IIT Gandhinagar, India",
+    "email": null
+  },
+  {
+    "name": "Dr Sri Sourya Sri Harsha Rongala",
+    "title": "Assistant Professor",
+    "department": "Management",
+    "phd": "PhD, University of Hyderabad",
+    "email": null
+  },
+  {
+    "name": "Dr Arghya Dutta",
+    "title": "Assistant Professor",
+    "department": "Physics",
+    "phd": "PhD, S N Bose NCBS,University of Calcutta",
+    "email": null
+  },
+  {
+    "name": "Dr Jaidev Kaushik",
+    "title": "Assistant Professor",
+    "department": "Chemistry",
+    "phd": "PhD, MNIT Jaipur, India",
+    "email": null
+  },
+  {
+    "name": "Dr Gurumurthy Kagita",
+    "title": "Professor of Practice",
+    "department": "Mechanical Engineering",
+    "phd": "PhD, IIT Delhi, India",
+    "email": null
+  },
+  {
+    "name": "Dr Satchidananda Tripathy",
+    "title": "Assistant Professor",
+    "department": "Paari School of Business",
+    "phd": "IIT Kharagpur, India",
+    "email": null
+  },
+  {
+    "name": "Dr Chiranjeevi Korupalli",
+    "title": "Assistant Professor",
+    "department": "Biological Sciences",
+    "phd": "PhD, National Tsing Hua University, Taiwan",
+    "email": null
+  },
+  {
+    "name": "Dr Prabakaran G",
+    "title": "Assistant Professor",
+    "department": "Environmental Science and Engineering",
+    "phd": "PhD, SRM University-AP, Andhra Pradesh",
+    "email": null
+  },
+  {
+    "name": "Dr Kumar Srinivasan",
+    "title": "Assistant Professor",
+    "department": "Paari School of Business",
+    "phd": "PhD, UCE-BIT Campus, Anna University, India",
+    "email": null
+  },
+  {
+    "name": "Dr Sasmita Rout",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, IIT Guwahati, India",
+    "email": null
+  },
+  {
+    "name": "Dr Sourav Sen",
+    "title": "Assistant Professor",
+    "department": "Mathematics",
+    "phd": "PhD, Ramakrishna Mission Vidyamandira (University of Calcutta)",
+    "email": null
+  },
+  {
+    "name": "Mr Ayush Bijoura",
+    "title": "Assistant Professor-Ad hoc",
+    "department": "Computer Science and Engineering",
+    "phd": null,
+    "email": null
+  },
+  {
+    "name": "Mr Aveek Majumdar",
+    "title": "Professor of Practice",
+    "department": "Management",
+    "phd": null,
+    "email": null
+  },
+  {
+    "name": "Dr Yenuganti Vengala Rao",
+    "title": "Assistant Professor",
+    "department": "Biological Sciences",
+    "phd": "PhD, NDRI, Karanal,Haryana, India.",
+    "email": null
+  },
+  {
+    "name": "Dr Mallavalli Sitharam",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, Andhra University, India",
+    "email": null
+  },
+  {
+    "name": "Mr Arun Kumar",
+    "title": "Assistant Professor",
+    "department": "Electronics and Communication Engineering",
+    "phd": "PhD, PDPM IIITDMJ, Jabalpur, M.P., India",
+    "email": null
+  },
+  {
+    "name": "Dr Ubaid Mushtaq",
+    "title": "Assistant Professor",
+    "department": "Economics",
+    "phd": "PhD, IIT Kharagpur, India",
+    "email": null
+  },
+  {
+    "name": "Dr Ventrapati Pavan Kumar",
+    "title": "Assistant Professor",
+    "department": "Chemistry",
+    "phd": "PhD, IIT Madras, India",
+    "email": null
+  },
+  {
+    "name": "Dr Ishrat Munawer",
+    "title": "Assistant Professor",
+    "department": "Psychology",
+    "phd": "PhD, AMU, Aligarh Uttar Pradesh",
+    "email": null
+  },
+  {
+    "name": "Dr James Ralte",
+    "title": "Assistant Professor",
+    "department": "Political Science",
+    "phd": "PhD, Pondicherry University, India",
+    "email": null
+  },
+  {
+    "name": "Dr Adusumilli Vijaya Bhaskar",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, IIT Madras, India",
+    "email": null
+  },
+  {
+    "name": "Dr Nishanth K S",
+    "title": "Assistant Professor",
+    "department": "Sociology and Anthropology",
+    "phd": "PhD, RPI, Troy, New York",
+    "email": null
+  },
+  {
+    "name": "Dr Md Asif Thanedar",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, NIT Warangal, Warangal",
+    "email": null
+  },
+  {
+    "name": "Mr Venkata Sreekanth Balijabudda",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, IIT Kharagpur, India",
+    "email": null
+  },
+  {
+    "name": "Dr Dilip Kumar Vallabhadas",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, NIT, Warangal",
+    "email": null
+  },
+  {
+    "name": "Dr Mrutyunjaya Sahoo",
+    "title": "Assistant Professor",
+    "department": "Paari School of Business",
+    "phd": "PhD, NIT Warangal, Warangal",
+    "email": null
+  },
+  {
+    "name": "Dr Prajukta Tripathy",
+    "title": "Assistant Professor",
+    "department": "Economics",
+    "phd": "PhD,National Institute of Technology Rourkela",
+    "email": null
+  },
+  {
+    "name": "Dr Bidhan Barai",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, Jadavpur University, India",
+    "email": null
+  },
+  {
+    "name": "Dr K Sowjanya",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, NIT Raipur, India",
+    "email": null
+  },
+  {
+    "name": "Dr Lipismita Panigrahi",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, National Institute of Technology, Raipur",
+    "email": null
+  },
+  {
+    "name": "Mr Prasant Kumar Mohanty",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, National Institute of Technology Meghalaya",
+    "email": null
+  },
+  {
+    "name": "Dr Sawan Rai",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, PDPM IIITDM, Jabalpur",
+    "email": null
+  },
+  {
+    "name": "Dr Nirmal Singh",
+    "title": "Assistant Professor",
+    "department": "Economics",
+    "phd": "PhD, Indian Institute of Technology, Roorkee\r\nIndia",
+    "email": null
+  },
+  {
+    "name": "Mr Ch Sree Kumar",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, NIT Meghalaya",
+    "email": null
+  },
+  {
+    "name": "Mr Vivek Yelleti",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, NIT Warangal - IDRBT, India",
+    "email": null
+  },
+  {
+    "name": "Dr Bhagwat Ram",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, Banaras Hindu University,\r\nVaranasi",
+    "email": null
+  },
+  {
+    "name": "Dr Prasun Dutta",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, Indian Statistical Institute (ISI),\r\nKolkata",
+    "email": null
+  },
+  {
+    "name": "Dr D Chandana Gowri",
+    "title": "Assistant Professor",
+    "department": "Computer Science Engineering",
+    "phd": "PhD, VIT-AP University,\r\nIndia",
+    "email": null
+  },
+  {
+    "name": "Mr Singarapu Pavan Kumar",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": null,
+    "email": null
+  },
+  {
+    "name": "Dr Varsha Sambhaje",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, D Y Patil International University,\r\nPune",
+    "email": null
+  },
+  {
+    "name": "Dr Shaik Rafi",
+    "title": "Assistant Professor",
+    "department": "Department of Computer Science Engineering",
+    "phd": "PhD, National Institute\r\nof Technology Mizoram",
+    "email": null
+  },
+  {
+    "name": "Dr Shaik John Saida",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, NIT Rourkela,Varanasi",
+    "email": null
+  },
+  {
+    "name": "Dr Preeti Kumari",
+    "title": "Assistant Professor",
+    "department": "Literature and Languages",
+    "phd": "PhD, Indian Institute of Technology Delhi, \r\nIndia",
+    "email": null
+  },
+  {
+    "name": "Dr Argha Basu",
+    "title": "Assistant Professor",
+    "department": "Literature and Languages",
+    "phd": "PhD, Indian Institute of Technology Patna\r\nIndia",
+    "email": null
+  },
+  {
+    "name": "Mr Varun Chandra Jammula",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD (Pursuing), Arizona State University, USA",
+    "email": null
+  },
+  {
+    "name": "Mr Yara Srinivas",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, School of Computer and Information Sciences, University of Hyderabad",
+    "email": null
+  },
+  {
+    "name": "Dr Shadab Ahmad",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, University of Hyderabad, Telangana",
+    "email": null
+  },
+  {
+    "name": "Mr Kammula Sunil Kumar",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, National Institute of Technology (NIT), Raipur",
+    "email": null
+  },
+  {
+    "name": "Dr Chilukamari Rajesh",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, NIT Warangal",
+    "email": null
+  },
+  {
+    "name": "Dr Aniruddha Nagaraj",
+    "title": "Assistant Professor",
+    "department": "Literature and Languages",
+    "phd": "PhD, Ambedkar University, Delhi",
+    "email": null
+  },
+  {
+    "name": "Ms Matta Krishna Kumari",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, Indian Institute of Information Technology Sri City, India",
+    "email": null
+  },
+  {
+    "name": "Dr Santanu Mandal",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, NIT Rourkela, India",
+    "email": null
+  },
+  {
+    "name": "Dr Rangachary Kommanduri",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, Indian Institute of Information Technology, Sri City",
+    "email": null
+  },
+  {
+    "name": "Dr Rajbir Samal",
+    "title": "Assistant Professor",
+    "department": "Literature and Languages",
+    "phd": "PhD, IIT Roorkee India",
+    "email": null
+  },
+  {
+    "name": "Dr Arun Krishnan K S",
+    "title": "Assistant Professor",
+    "department": "Mechanical Engineering",
+    "phd": "PhD, IIT Palakkad, Kerala, India",
+    "email": null
+  },
+  {
+    "name": "Dr Sayan Ghosh",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, IIT Madras, India",
+    "email": null
+  },
+  {
+    "name": "Dr Chillara AnilKumar",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, Birla Institute of Technology and Sciences, India",
+    "email": null
+  },
+  {
+    "name": "Dr Kamalesh Saha",
+    "title": "Assistant Professor",
+    "department": "Mathematics",
+    "phd": "PhD, Indian Institute of Technology Gandhinagar, India",
+    "email": null
+  },
+  {
+    "name": "Mr Sushovan Khatua",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, Maulana Abul Kalam Azad University of Technology, West Bengal, India",
+    "email": null
+  },
+  {
+    "name": "Ms.Thangellamudi Anitha Kumari",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, VIT-AP University",
+    "email": null
+  },
+  {
+    "name": "Dr Keerthi Reddy N",
+    "title": "Assistant Professor",
+    "department": "Mathematics",
+    "phd": "PhD, Presidency University, India",
+    "email": null
+  },
+  {
+    "name": "Dr Puviarasu M",
+    "title": "Assistant Professor",
+    "department": "Management",
+    "phd": "Ph.D. in National Institute of Technology Tiruchirappalli, (IIPP)",
+    "email": null
+  },
+  {
+    "name": "Dr Priya K V",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, Karunya Institute of Technology and Sciences",
+    "email": null
+  },
+  {
+    "name": "Dr Surochita Pal",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, Indian Statistical Institute",
+    "email": null
+  },
+  {
+    "name": "Dr Syed Sameen Ahmad Rizvi",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, Birla Institute of Technology & Science, Pilani, India",
+    "email": null
+  },
+  {
+    "name": "Mr Madhusudan Naik",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, NIT, Meghalaya",
+    "email": null
+  },
+  {
+    "name": "Dr Imandi Raju",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, Sri City, Chittoor",
+    "email": null
+  },
+  {
+    "name": "Dr Pintu Bhunia",
+    "title": "Assistant Professor",
+    "department": "Mathematics",
+    "phd": "PhD, Jadavpur University, India",
+    "email": null
+  },
+  {
+    "name": "Mr Vamshi Vijay Krishna Jeripotula",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, IIT Tirupati, India",
+    "email": null
+  },
+  {
+    "name": "Mr Krishan Takhar",
+    "title": "Assistant Professor",
+    "department": "Sociology and Anthropology",
+    "phd": "PhD, JNU, New Delhi, India",
+    "email": null
+  },
+  {
+    "name": "Dr Yasir Afaq",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, Indian Statistical Institute, India",
+    "email": null
+  },
+  {
+    "name": "Tabiya Manzoor Beigh",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, Pondicherry University, India",
+    "email": null
+  },
+  {
+    "name": "Dr Dipankar Kundu",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, MIU, ISI, Kolkata & University of Calcutta, Kolkata, India",
+    "email": null
+  },
+  {
+    "name": "Dr Yasir Afaq",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, Indian Statistical Institute, India",
+    "email": null
+  },
+  {
+    "name": "Dr Amal M Latif",
+    "title": "Assistant Professor",
+    "department": "Sociology and Anthropology",
+    "phd": "PhD, Indian Institute of Technology, Hyderabad",
+    "email": null
+  },
+  {
+    "name": "Mr Sravan S S",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, NIT Tiruchirappalli",
+    "email": null
+  },
+  {
+    "name": "Dr Arghajit Jana",
+    "title": "Assistant Professor",
+    "department": "Physics",
+    "phd": "PhD, Indian Centre for Space Physics, India",
+    "email": null
+  },
+  {
+    "name": "Dr Sandip Kumar Mondal",
+    "title": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, University of Calcutta",
+    "email": null
+  },
+  {
+    "name": "Dr Harvinder Kumar Negi",
+    "title": "Assistant Professor",
+    "department": "Literature and Languages",
+    "phd": "PhD, University of Delhi, India",
+    "email": null
+  },
+  {
+    "name": "Dr Pothuganti Sanjeeva Kumar",
+    "title": "Assistant Professor",
+    "department": "Management",
+    "phd": "PhD, NIT Warangal",
+    "email": null
+  },
+  {
+    "name": "Dr Teja Krishna Mamidi",
+    "title": "Assistant Professor",
+    "department": "Department of Mechanical Engineering",
+    "phd": "PhD, IIT Madras",
+    "email": null
+  },
+  {
+    "name": "Prof. Rathinasamy Maria Saleth",
+    "title": "Distinguished Visiting Faculty",
+    "department": "Economics",
+    "phd": "PhD, UIUC, USA",
+    "email": null
+  },
+  {
+    "name": "Dr Anastasia Karakasidou",
+    "title": "Visiting Faculty",
+    "department": "PhD, Columbia University, New York",
+    "phd": null,
+    "email": null
+  },
+  {
+    "name": "Dr Janaki Bakhle",
+    "title": "Visiting Faculty",
+    "department": "PhD, Columbia University, New York",
+    "phd": null,
+    "email": null
+  },
+  {
+    "name": "Dr Lakshmi Kantam Mannepalli",
+    "title": "Visiting Faculty",
+    "department": "Chemistry",
+    "phd": "PhD, Kurukshetra University, India",
+    "email": null
+  },
+  {
+    "name": "Dr Rajiv Lochan (Pareek)",
+    "title": "Visiting faculty",
+    "department": "Mathematics",
+    "phd": "PhD, University of Hull (England)",
+    "email": null
+  },
+  {
+    "name": "Prof. Haribabu Ejnavarzala",
+    "title": "Distinguished Visiting Professor",
+    "department": "Liberal Arts",
+    "phd": "PhD, IIT Bombay, India",
+    "email": null
+  },
+  {
+    "name": "Dr Rajeev Shorey",
+    "title": "Distinguished Visiting Professor",
+    "department": "Computer Science and Engineering",
+    "phd": "PhD, Indian Institute of Science, Bangalore",
+    "email": null
+  },
+  {
+    "name": "Prof. Murali Patibandla",
+    "title": "Distinguished Visiting Professor",
+    "department": "Paari School of Business",
+    "phd": "PhD, Jawaharlal Nehru University",
+    "email": null
+  },
+  {
+    "name": "Mr S Suresh",
+    "title": "Visiting Professor",
+    "department": "Paari School of Business",
+    "phd": null,
+    "email": null
+  },
+  {
+    "name": "Prof. Kota Sitaramanjaneyulu",
+    "title": "Visiting Faculty",
+    "department": "Civil Engineering",
+    "phd": "PhD, BITS, Pilani",
+    "email": null
+  },
+  {
+    "name": "Dr Rajkumar Elagiri Ramalingam",
+    "title": "Guest Faculty",
+    "department": "Electronics & Communication Engineering",
+    "phd": "PhD, University of Rouen Normandy",
+    "email": null
+  },
+  {
+    "name": "Prof. G Venkata Chalam",
+    "title": "Guest Faculty",
+    "department": "Commerce",
+    "phd": "PhD, Nagarjuna University, Guntur, India",
+    "email": null
+  },
+  {
+    "name": "Dr K N Sasi Rekha",
+    "title": "Guest Faculty",
+    "department": "Commerce",
+    "phd": "PhD, University of Hyderabad, India",
+    "email": null
+  }
+],
+  "governing_body": {
+  "Chairperson": [
+    {
+      "name": "Dr V K Saraswat",
+      "designation": "Member, NITI AAYOG",
+      "bio": "Dr V K Saraswat, is a Member of National Institution for Transforming..."
+    }
+  ],
+  "Co-Chairperson Ex-Officio": [
+    {
+      "name": "Prof. Satish Kumar",
+      "designation": "Vice Chancellor, SRM University-AP"
+    }
+  ],
+  "Members": [
+    {
+      "name": "Dr S Chandra Sekhar",
+      "designation": "Former Secretary, Department of Science & Technology (DST)",
+      "bio": "Dr Srivari Chandrasekhar, born in 1964, completed all his primary..."
+    },
+    {
+      "name": "Prof. K Satyanarayana",
+      "designation": "Director, IIT Tirupati",
+      "bio": "Prof. Kalidindi N Satyanarayana is the Director of IIT Tirupati..."
+    },
+    {
+      "name": "Dr Mahendra Dev",
+      "designation": "Former Director and Vice Chancellor, Indira Gandhi Institute of Development Research (IGIDR), Mumbai",
+      "bio": "Dr Mahendra Dev is currently Director and Vice Chancellor, Indira Gandhi..."
+    },
+    {
+      "name": "Prof. B S Murthy",
+      "designation": "Director, IIT Hyderabad",
+      "bio": "Prof. B S Murty is an Institute Professor and Girija & R. Muralidharan Chair..."
+    },
+    {
+      "name": "Prof. U B Desai",
+      "designation": "Chancellor, Anurag University, Hyderabad",
+      "bio": "Prof. UB Desai, till recently, was the is the Director of IIT Sri..."
+    },
+    {
+      "name": "Dr K I Varaprasada Reddy",
+      "designation": "Chairman Emeritus, Shantha Biotechnics Ltd",
+      "bio": "Dr K I Varaprasad Reddy is the Founder and currently, Non-Executive..."
+    },
+    {
+      "name": "Dr S R Rao",
+      "designation": "Vice President, Sri Balaji Vidyapeeth, Pondicherry",
+      "bio": "Dr S R Rao was Senior Adviser, Department of Biotechnology, Government..."
+    },
+    {
+      "name": "Prof. P Appa Rao",
+      "designation": "Former Vice Chancellor, University of Hyderabad",
+      "bio": "Prof. Appa Rao Podile is the Vice Chancellor of University of Hyderabad. He is..."
+    },
+    {
+      "name": "Prof. B V R Chowdari",
+      "designation": "Senior Executive Director – President’s Office, School of Materials Science & Engineering, Nanyang Technological University Singapore",
+      "bio": "Prof. B V R Chowdari worked at the National University of Singapore..."
+    },
+    {
+      "name": "Prof. Kamanio Chattopadhyay",
+      "designation": "Professor, Department of Materials Engineering, IISc, Bangalore",
+      "bio": "Prof. Kamanio Chattopadhyay is an honorary professor at the Indian Institute of..."
+    },
+    {
+      "name": "Prof. R Balasubramanian",
+      "designation": "The Institute of Mathematical Science, C.I.T Campus Taramani, Chennai",
+      "bio": "Prof. Ramachandran Balasubramanian, till recently, was Director of the Institute..."
+    },
+    {
+      "name": "Prof. G P Das",
+      "designation": "Emeritus Professor, TCG Centres for Research and Education in Science and Technology Sector V, Salt Lake, Kolkata",
+      "bio": "Prof. G P Das is presently working as a professor in the Department..."
+    },
+    {
+      "name": "Dr Anil Kumar",
+      "designation": "JC Bose National Fellow, Physical & Materials Chemistry Division, CSIR – National Chemical Laboratory",
+      "bio": "Dr Anil Kumar is a Senior Scientist, Physical Chemistry Division at National..."
+    },
+    {
+      "name": "Prof. Rajendra Srivastava",
+      "designation": "Novartis Professor of Marketing Strategy and Innovation Executive Director - Centre for Business Innovation (CBI), ISB, Hyderabad"
+    },
+    {
+      "name": "Prof. Ajit Sinha",
+      "designation": "Director, Asian Development Research Institute, Patna"
+    },
+    {
+      "name": "Prof. B P Sinha",
+      "designation": "Professor, IEEE Fellow, Advanced Computing & Microelectronics Unit, Indian Statistical Institute, 203, B.T Road, Kolkata, West Bengal",
+      "bio": "Prof. Bhabani P Sinha is a professor in the Indian Statistical Institute..."
+    },
+    {
+      "name": "Dr Tata Narshimga Rao",
+      "designation": "International Advanced Research Centre for Powder Metallurgy & New Materials (ARCI), Hyderabad",
+      "bio": "Dr Tata Narshimga Rao is currently the Director (Additional..."
+    },
+    {
+      "name": "Prof. Shyam R Asolekar",
+      "designation": "Centre for Environmental Science & Engineering, IIT Bombay, Powai, Mumbai",
+      "bio": "Prof. Shyam R Asolekar is a professor of Centre for Environmental..."
+    },
+    {
+      "name": "Prof. D. Narayana Rao",
+      "designation": "Executive Director (Research), SRM Group"
+    }
+  ],
+  "Member - Secretary Ex-Officio": [
+    {
+      "name": "Dr R Premkumar",
+      "designation": "Registrar - SRM University-AP, Andhra Pradesh"
+    }
+  ],
+  "Member – Convener Ex-Officio": [
+    {
+      "name": "Prof. Ranjit Thapa",
+      "designation": "Dean – Research, SRM University-AP, Andhra Pradesh"
+    }
+  ]
+}
+}

@@ -1,0 +1,97 @@
+{
+  "name": "Next Tech Lab AP",
+  "location": "SRM University-AP, Amaravati",
+  "description": "A student-led multidisciplinary research and innovation lab at SRM University-AP focusing on cutting-edge technologies through projects, research, and collaboration.",
+  "domains": [
+    "Artificial Intelligence & Machine Learning",
+    "Human-Computer Interaction (AR/VR)",
+    "UI/UX & Design",
+    "Web & App Development",
+    "Blockchain & Cybersecurity",
+    "Internet of Things (IoT) & Robotics"
+  ],
+  "activities": [
+    "Research paper discussions",
+    "Workshops on emerging technologies",
+    "Hackathons such as HackSRM",
+    "Community networking events",
+    "Mentorship and peer learning"
+  ],
+  "achievements": [
+    "Winner of QS Reimagine Education 2018 Award",
+    "Recognized as one of the first student-driven multidisciplinary labs at SRM AP"
+  ],
+  "how_to_join": [
+    {
+      "step": 1,
+      "title": "Attend the Expo",
+      "details": "Join the upcoming Expo on 17–18 September 2025 to learn about projects, meet members, and express interest in joining."
+    },
+    {
+      "step": 2,
+      "title": "Fill Out the Google Form",
+      "details": "After the Expo, a Google Form will be shared. Fill it out with your details and interests."
+    },
+    {
+      "step": 3,
+      "title": "Interview",
+      "details": "Shortlisted applicants will be called for an interview to assess their enthusiasm and fit for the lab."
+    },
+    {
+      "step": 4,
+      "title": "Task Assignment",
+      "details": "Selected candidates will be given a small task/project to complete."
+    },
+    {
+      "step": 5,
+      "title": "Evaluation and Onboarding",
+      "details": "Your performance on the task will be evaluated. Successful candidates will be officially onboarded into Next Tech Lab AP."
+    }
+  ],
+  "rules_and_policies": {
+    "code_of_conduct": "Be respectful, avoid harassment, credit collaborators, follow university policies during on-campus activity.",
+    "attendance": "Attend events you sign up for; inform leads if you cannot.",
+    "security": "Do not share private data or sensitive university credentials on public channels."
+  },
+  "resources": {
+    "repositories": "GitHub organization (ask core team for links)",
+    "documentation": "Shared Google Drive / Notion wiki (links available in Discord)",
+    "tools": [
+      "Discord for communication",
+      "Git/GitHub for code",
+      "Google Drive / Notion for docs",
+      "Hardware labs for prototyping (on-campus)"
+    ]
+  },
+  "events": [
+    {
+      "name": "Weekly Standup",
+      "frequency": "Weekly",
+      "purpose": "Project status updates and coordination"
+    },
+    {
+      "name": "Monthly Workshop",
+      "frequency": "Monthly",
+      "purpose": "Skill-building sessions led by members or guests"
+    },
+    {
+      "name": "Hackathon / Demo Day",
+      "frequency": "Quarterly or bi-annual",
+      "purpose": "Showcase projects and recruit contributors"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is it only for SRM students?",
+      "a": "Yes — it is only for SRM AP students from all fields (B.Tech and M.Tech)."
+    },
+    {
+      "q": "Do I need prior experience?",
+      "a": "No — beginners are welcome; there are study groups and mentors."
+    },
+    {
+      "q": "Are there fees?",
+      "a": "Usually free; special workshops may have material costs communicated in advance."
+    }
+  ]
+}
