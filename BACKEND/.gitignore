@@ -15,8 +15,7 @@ env/
 .venv/
 
 # Data directories (user-specific paths)
-University Informations/
-uni_json_files/
+
 storage/
 session_data/
 
